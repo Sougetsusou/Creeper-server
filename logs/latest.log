@@ -1,0 +1,78 @@
+[01:17:14] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[01:17:20] [ServerMain/INFO]: Loaded 7 recipes
+[01:17:20] [ServerMain/INFO]: Loaded 1271 advancements
+[01:17:23] [Server thread/INFO]: Starting minecraft server version 1.20.4
+[01:17:23] [Server thread/INFO]: Loading properties
+[01:17:23] [Server thread/INFO]: Default game type: SURVIVAL
+[01:17:23] [Server thread/INFO]: Generating keypair
+[01:17:23] [Server thread/INFO]: Starting Minecraft server on *:25565
+[01:17:23] [Server thread/INFO]: Using default channel type
+[01:17:23] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[01:17:23] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[01:17:23] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[01:17:23] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[01:17:23] [Server thread/INFO]: Preparing level "world"
+[01:17:26] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[01:17:30] [Worker-Main-4/INFO]: Preparing spawn area: 0%
+[01:17:30] [Worker-Main-13/INFO]: Preparing spawn area: 0%
+[01:17:30] [Worker-Main-4/INFO]: Preparing spawn area: 0%
+[01:17:30] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[01:17:30] [Worker-Main-14/INFO]: Preparing spawn area: 0%
+[01:17:30] [Worker-Main-11/INFO]: Preparing spawn area: 0%
+[01:17:30] [Worker-Main-7/INFO]: Preparing spawn area: 0%
+[01:17:30] [Worker-Main-12/INFO]: Preparing spawn area: 0%
+[01:17:30] [Worker-Main-12/INFO]: Preparing spawn area: 0%
+[01:17:30] [Worker-Main-13/INFO]: Preparing spawn area: 0%
+[01:17:31] [Worker-Main-13/INFO]: Preparing spawn area: 0%
+[01:17:31] [Worker-Main-9/INFO]: Preparing spawn area: 76%
+[01:17:31] [Server thread/INFO]: Time elapsed: 5617 ms
+[01:17:31] [Server thread/INFO]: Done (8.081s)! For help, type "help"
+[01:19:41] [Server thread/INFO]: Lanzaw[/127.0.0.1:1822] logged in with entity id 102 at (1279.2273004444412, 124.0, 161.40003042604417)
+[01:19:41] [Server thread/INFO]: Lanzaw joined the game
+[01:21:13] [Server thread/INFO]: Lanzaw lost connection: Disconnected
+[01:21:13] [Server thread/INFO]: Lanzaw left the game
+[01:24:53] [Server thread/INFO]: Sq24[/127.0.0.1:1883] logged in with entity id 524 at (633.5387250336563, 77.0, -16.503039200713133)
+[01:24:53] [Server thread/INFO]: Sq24 joined the game
+[01:25:16] [Server thread/INFO]: Sq24 lost connection: Disconnected
+[01:25:16] [Server thread/INFO]: Sq24 left the game
+[01:26:08] [Server thread/INFO]: Sq24[/127.0.0.1:1897] logged in with entity id 785 at (633.5387250336563, 77.0, -16.503039200713133)
+[01:26:08] [Server thread/INFO]: Sq24 joined the game
+[01:26:10] [Server thread/INFO]: Sq24 has made the advancement [Surge Protector]
+[01:30:37] [Server thread/INFO]: Sq24 lost connection: Disconnected
+[01:30:37] [Server thread/INFO]: Sq24 left the game
+[01:31:26] [Server thread/INFO]: Sq24[/127.0.0.1:1970] logged in with entity id 1551 at (639.7676750415056, 79.0, -18.99045821122704)
+[01:31:26] [Server thread/INFO]: Sq24 joined the game
+[01:35:10] [Server thread/INFO]: Sq24 lost connection: Disconnected
+[01:35:10] [Server thread/INFO]: Sq24 left the game
+[01:36:32] [Server thread/INFO]: Sq24[/127.0.0.1:2017] logged in with entity id 2168 at (635.2116660511251, 70.0, 9.699999988079071)
+[01:36:32] [Server thread/INFO]: Sq24 joined the game
+[01:38:29] [Server thread/INFO]: Sq24 has made the advancement [A Seedy Place]
+[01:46:30] [Server thread/INFO]: Sq24 lost connection: Disconnected
+[01:46:30] [Server thread/INFO]: Sq24 left the game
+[01:47:20] [Server thread/INFO]: Sq24[/127.0.0.1:2864] logged in with entity id 3712 at (630.4799449233197, 77.0, -18.692451390221354)
+[01:47:20] [Server thread/INFO]: Sq24 joined the game
+[01:50:45] [Server thread/INFO]: Sq24 lost connection: Disconnected
+[01:50:45] [Server thread/INFO]: Sq24 left the game
+[01:51:27] [Server thread/INFO]: Sq24[/127.0.0.1:2926] logged in with entity id 4277 at (632.8816937743301, 77.0, -17.7072689988388)
+[01:51:27] [Server thread/INFO]: Sq24 joined the game
+[01:55:11] [Server thread/INFO]: Sq24 lost connection: Disconnected
+[01:55:11] [Server thread/INFO]: Sq24 left the game
+[01:55:35] [Server thread/INFO]: Sq24[/127.0.0.1:2932] logged in with entity id 5191 at (644.0124221285672, 75.0, -15.36936838773854)
+[01:55:35] [Server thread/INFO]: Sq24 joined the game
+[01:55:58] [Server thread/INFO]: Sq24 lost connection: Disconnected
+[01:55:58] [Server thread/INFO]: Sq24 left the game
+[01:56:26] [Server thread/INFO]: Sq24[/127.0.0.1:2934] logged in with entity id 5452 at (644.6164601796058, 74.9375, -18.549843753644517)
+[01:56:26] [Server thread/INFO]: Sq24 joined the game
+[02:11:29] [Server thread/INFO]: Sq24 lost connection: Disconnected
+[02:11:29] [Server thread/INFO]: Sq24 left the game
+[02:11:39] [Server thread/INFO]: Stopping the server
+[02:11:39] [Server thread/INFO]: Stopping server
+[02:11:39] [Server thread/INFO]: Saving players
+[02:11:39] [Server thread/INFO]: Saving worlds
+[02:11:39] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[02:11:39] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[02:11:39] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[02:11:39] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[02:11:39] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[02:11:39] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[02:11:39] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
