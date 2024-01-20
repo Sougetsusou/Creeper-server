@@ -1,270 +1,117 @@
-[02:30:46] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[02:30:48] [ServerMain/INFO]: Loaded 7 recipes
-[02:30:49] [ServerMain/INFO]: Loaded 1271 advancements
-[02:30:50] [Server thread/INFO]: Starting minecraft server version 1.20.4
-[02:30:50] [Server thread/INFO]: Loading properties
-[02:30:50] [Server thread/INFO]: Default game type: SURVIVAL
-[02:30:50] [Server thread/INFO]: Generating keypair
-[02:30:50] [Server thread/INFO]: Starting Minecraft server on *:25565
-[02:30:50] [Server thread/INFO]: Using default channel type
-[02:30:50] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[02:30:50] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[02:30:50] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[02:30:50] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[02:30:50] [Server thread/INFO]: Preparing level "world"
-[02:30:51] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[02:30:54] [Worker-Main-11/INFO]: Preparing spawn area: 0%
-[02:30:54] [Worker-Main-4/INFO]: Preparing spawn area: 0%
-[02:30:54] [Worker-Main-6/INFO]: Preparing spawn area: 0%
-[02:30:54] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[02:30:54] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[02:30:54] [Worker-Main-4/INFO]: Preparing spawn area: 0%
-[02:30:54] [Worker-Main-14/INFO]: Preparing spawn area: 8%
-[02:30:54] [Worker-Main-11/INFO]: Preparing spawn area: 97%
-[02:30:54] [Server thread/INFO]: Time elapsed: 3511 ms
-[02:30:54] [Server thread/INFO]: Done (4.457s)! For help, type "help"
-[02:34:59] [Server thread/INFO]: Lanzaw[/127.0.0.1:9372] logged in with entity id 24 at (1289.2339920833479, 125.0, 174.99261879383076)
-[02:34:59] [Server thread/INFO]: Lanzaw joined the game
-[02:35:22] [Server thread/INFO]: [Lanzaw: Set spawn point to 1285, 125, 175 [0.0] in minecraft:overworld for Lanzaw]
-[02:35:26] [Server thread/INFO]: Lanzaw was slain by Zombie
-[02:35:28] [Server thread/INFO]: Lanzaw lost connection: Disconnected
-[02:35:28] [Server thread/INFO]: Lanzaw left the game
-[08:53:41] [Server thread/INFO]: WatcherZJY[/127.0.0.1:11598] logged in with entity id 518 at (68.8271960099522, 3.0, -139.6194645742549)
-[08:53:41] [Server thread/INFO]: WatcherZJY joined the game
-[08:54:53] [Server thread/INFO]: WatcherZJY lost connection: Disconnected
-[08:54:53] [Server thread/INFO]: WatcherZJY left the game
-[08:55:01] [Server thread/INFO]: WatcherZJY[/127.0.0.1:11605] logged in with entity id 834 at (68.81156524912275, 0.0, -138.9876837395067)
-[08:55:01] [Server thread/INFO]: WatcherZJY joined the game
-[09:50:38] [Server thread/INFO]: [WatcherZJY: Teleported WatcherZJY to 0.500000, -1.000000, -137.500000]
-[09:52:17] [Server thread/INFO]: lemonjuice[/127.0.0.1:12081] logged in with entity id 7543 at (660.6459426941695, 79.0, 5.32358754755302)
-[09:52:17] [Server thread/INFO]: lemonjuice joined the game
-[09:52:58] [Server thread/INFO]: [Not Secure] <lemonjuice> 有没有床
-[09:53:06] [Server thread/INFO]: [Not Secure] <WatcherZJY> wu
-[09:55:05] [Server thread/INFO]: [Not Secure] <WatcherZJY> wozaikuangli
-[09:55:09] [Server thread/INFO]: [Not Secure] <WatcherZJY> meichuang
-[09:55:20] [Server thread/INFO]: [Not Secure] <lemonjuice> hd
-[09:57:27] [Server thread/INFO]: lemonjuice has made the advancement [Monster Hunter]
-[09:58:05] [Server thread/INFO]: [Not Secure] <WatcherZJY> youmeiyoumai
-[09:58:29] [Server thread/INFO]: [lemonjuice: Gave 1 [Lime Bed] to lemonjuice]
-[09:58:41] [Server thread/INFO]: [Not Secure] <WatcherZJY> ??
-[09:58:53] [Server thread/INFO]: [Not Secure] <lemonjuice> nihao
-[09:59:02] [Server thread/INFO]: [Not Secure] <WatcherZJY> zuobi
-[09:59:04] [Server thread/INFO]: [Not Secure] <lemonjuice> gaoyixia chongshengdian
-[09:59:13] [Server thread/INFO]: [Not Secure] <lemonjuice> gebi you chuang
-[09:59:16] [Server thread/INFO]: [Not Secure] <WatcherZJY> dengyixia
-[09:59:21] [Server thread/INFO]: [Not Secure] <lemonjuice> danshiyoucunmin
-[09:59:25] [Server thread/INFO]: [Not Secure] <lemonjuice> wobuhaowa
-[09:59:55] [Server thread/INFO]: [WatcherZJY: Teleported WatcherZJY to lemonjuice]
-[09:59:58] [Server thread/INFO]: lemonjuice was slain by WatcherZJY
-[10:00:12] [Server thread/INFO]: [Not Secure] <lemonjuice> ?
-[10:00:21] [Server thread/INFO]: [Not Secure] <WatcherZJY> shubiaokazhule
-[10:00:25] [Server thread/INFO]: [Not Secure] <lemonjuice> ...
-[10:00:29] [Server thread/INFO]: [Not Secure] <WatcherZJY> shubiaokazhule
-[10:00:34] [Server thread/INFO]: [Not Secure] <lemonjuice> funny
-[10:00:40] [Server thread/INFO]: [Not Secure] <WatcherZJY> yizhidianzheyoujian
-[10:01:33] [Server thread/INFO]: [Not Secure] <WatcherZJY> nagefangzikeyiyong
-[10:01:45] [Server thread/INFO]: [Not Secure] <WatcherZJY> youmeiyoumai
-[10:01:57] [Server thread/INFO]: [Not Secure] <lemonjuice> shenme
-[10:02:06] [Server thread/INFO]: [Not Secure] <WatcherZJY> maikefeng
-[10:02:07] [Server thread/INFO]: [Not Secure] <lemonjuice> 有没有什么
-[10:02:10] [Server thread/INFO]: [Not Secure] <WatcherZJY> youwu
-[10:02:16] [Server thread/INFO]: [Not Secure] <lemonjuice> 暂时没有
-[10:02:25] [Server thread/INFO]: [Not Secure] <WatcherZJY> nagefangziwokeyishui
-[10:02:42] [Server thread/INFO]: [Not Secure] <lemonjuice> wanshangyou cunmin
-[10:03:05] [Server thread/INFO]: [Not Secure] <WatcherZJY> nanigeiwogechuang
-[10:03:10] [Server thread/INFO]: [Not Secure] <WatcherZJY> nizaizuobiyixia
-[10:03:32] [Server thread/INFO]: [lemonjuice: Gave 1 [Blue Bed] to WatcherZJY]
-[10:04:56] [Server thread/INFO]: [Not Secure] <lemonjuice> wow
-[10:05:12] [Server thread/INFO]: [Not Secure] <WatcherZJY> woyouyizu diamond
-[10:05:29] [Server thread/INFO]: [Not Secure] <lemonjuice> 我要研究一下种田
-[10:06:03] [Server thread/INFO]: [Not Secure] <WatcherZJY> meitanzainali
-[10:06:09] [Server thread/INFO]: [Not Secure] <WatcherZJY> wohaoquemeitan
-[10:06:17] [Server thread/INFO]: [Not Secure] <lemonjuice> wobuzhidao
-[10:06:22] [Server thread/INFO]: [Not Secure] <lemonjuice> woyemeiyou
-[10:07:22] [Server thread/INFO]: [WatcherZJY: Teleported WatcherZJY to -0.500000, -26.000000, -117.500000]
-[10:10:23] [Server thread/INFO]: WatcherZJY was slain by Zombie
-[10:10:30] [Server thread/INFO]: [Not Secure] <lemonjuice> ??
-[10:10:50] [Server thread/INFO]: [Not Secure] <WatcherZJY> youkale
-[10:10:58] [Server thread/INFO]: [Not Secure] <WatcherZJY> nihuilai gaoyixia chongshengdian
-[10:11:05] [Server thread/INFO]: [Not Secure] <WatcherZJY> woyibuxiaoxinwadiaole
-[10:11:26] [Server thread/INFO]: [Not Secure] <WatcherZJY> zuojianjintianyoudianwenti
-[10:11:42] [Server thread/INFO]: [Not Secure] <WatcherZJY> wakuangliandiantaiduole kazhule
-[10:11:50] [Server thread/INFO]: [Not Secure] <lemonjuice> fx
-[10:11:57] [Server thread/INFO]: [Not Secure] <WatcherZJY> jieguoshanglaikandaoni kaishizhixingzuojianzhilingle
-[10:12:05] [Server thread/INFO]: [Not Secure] <WatcherZJY> jieguojiubianchengle gongjini
-[10:12:11] [Server thread/INFO]: [Not Secure] <WatcherZJY> wangluotaikadaozhide
-[10:12:24] [Server thread/INFO]: [WatcherZJY: Teleported WatcherZJY to -0.500000, -26.000000, -116.500000]
-[10:12:33] [Server thread/INFO]: [Not Secure] <lemonjuice> 现在不是挂在 我这里了
-[10:16:19] [Server thread/INFO]: [Not Secure] <lemonjuice> 怎么又有creeper
-[10:16:37] [Server thread/INFO]: [Not Secure] <lemonjuice> 我就怕他给我开好的田炸了
-[10:17:34] [Server thread/INFO]: [Not Secure] <WatcherZJY> nawohuilai dengyixia
-[10:17:55] [Server thread/INFO]: [Not Secure] <lemonjuice> bbzl
-[10:18:03] [Server thread/INFO]: [Not Secure] <lemonjuice> creeper 在门口堵我
-[10:18:06] [Server thread/INFO]: [WatcherZJY: Teleported WatcherZJY to lemonjuice]
-[10:18:11] [Server thread/INFO]: WatcherZJY has made the advancement [Sweet Dreams]
-[10:18:22] [Server thread/INFO]: [Not Secure] <lemonjuice> 你为什么能睡觉
-[10:18:31] [Server thread/INFO]: [Not Secure] <WatcherZJY> woka
-[10:18:39] [Server thread/INFO]: [Not Secure] <WatcherZJY> bushinengshuima
-[10:18:46] [Server thread/INFO]: [Not Secure] <WatcherZJY> yinggaishinikale
-[10:19:41] [Server thread/INFO]: [Not Secure] <WatcherZJY> shuaibushuai
-[10:20:19] [Server thread/INFO]: [Not Secure] <WatcherZJY> nibuliwo wuwu
-[10:20:30] [Server thread/INFO]: [Not Secure] <lemonjuice> shuai
-[10:20:37] [Server thread/INFO]: [WatcherZJY: Teleported WatcherZJY to 18.500000, -35.000000, -97.500000]
-[10:22:12] [Server thread/INFO]: [Not Secure] <WatcherZJY> niyaobuyao xigua zhongzi
-[10:22:21] [Server thread/INFO]: [Not Secure] <lemonjuice> keyi
-[10:23:04] [Server thread/INFO]: [Not Secure] <lemonjuice> haiyaoyangdianzhu
-[10:23:09] [Server thread/INFO]: [Not Secure] <lemonjuice> meidongxichile
-[10:23:19] [Server thread/INFO]: [Not Secure] <WatcherZJY> xiaosi
-[10:27:18] [Server thread/INFO]: [WatcherZJY: Teleported WatcherZJY to lemonjuice]
-[10:27:20] [Server thread/INFO]: lemonjuice was slain by WatcherZJY
-[10:27:22] [Server thread/WARN]: lemonjuice moved too quickly! 4.359133746698376,-4.4375,-23.706800975158252
-[10:27:26] [Server thread/INFO]: [Not Secure] <lemonjuice> ...
-[10:27:29] [Server thread/INFO]: [Not Secure] <lemonjuice> ...
-[10:27:30] [Server thread/INFO]: [Not Secure] <WatcherZJY> ri
-[10:27:31] [Server thread/INFO]: [Not Secure] <lemonjuice> juj
-[10:27:48] [Server thread/INFO]: [Not Secure] <WatcherZJY> md meici gangchuansong jiushizheyang
-[10:28:03] [Server thread/INFO]: [Not Secure] <WatcherZJY> buchuansongnile wochuansongzuobiaoba
-[10:28:11] [Server thread/INFO]: [Not Secure] <lemonjuice> hd
-[10:34:06] [Server thread/INFO]: [Not Secure] <lemonjuice> rnm!!!!!
-[10:36:19] [Server thread/INFO]: [Not Secure] <WatcherZJY> hahahaha
-[10:36:28] [Server thread/INFO]: [Not Secure] <WatcherZJY> wogangguajile
-[10:36:41] [Server thread/INFO]: [Not Secure] <WatcherZJY> dan erji limian tingdaoyisheng baozha
-[10:36:52] [Server thread/INFO]: [Not Secure] <lemonjuice> ai
-[10:36:56] [Server thread/INFO]: [Not Secure] <lemonjuice> creeper
-[10:38:40] [Server thread/INFO]: [WatcherZJY: Teleported WatcherZJY to 17.500000, -33.000000, -84.500000]
-[10:42:29] [Server thread/INFO]: Unknown or incomplete command, see below for error
-[10:42:29] [Server thread/INFO]: ��<--[HERE]
-[10:44:32] [Server thread/INFO]: lemonjuice has made the advancement [A Seedy Place]
-[10:44:46] [Server thread/INFO]: [Not Secure] [Server] ��
-[10:44:53] [Server thread/INFO]: [Not Secure] <WatcherZJY> ??
-[10:44:56] [Server thread/INFO]: [Not Secure] <lemonjuice> ?
-[10:45:00] [Server thread/INFO]: [Not Secure] <WatcherZJY> nikandaozhege server lema
-[10:45:05] [Server thread/INFO]: [Not Secure] <WatcherZJY> zheshishenmedongxia
-[10:45:08] [Server thread/INFO]: [Not Secure] <lemonjuice> kandaole
-[10:45:13] [Server thread/INFO]: [Not Secure] <lemonjuice> wobuzhidao
-[10:45:19] [Server thread/INFO]: [Not Secure] <lemonjuice> 现在没挂我这里
-[10:46:12] [Server thread/INFO]: Lanzaw[/127.0.0.1:12461] logged in with entity id 18748 at (1285.5, 125.0, 175.5)
-[10:46:12] [Server thread/INFO]: Lanzaw joined the game
-[10:46:26] [Server thread/INFO]: [Not Secure] <WatcherZJY> sihui ganggangnage server shuolesha
-[10:46:38] [Server thread/INFO]: [Not Secure] <Lanzaw> 起床
-[10:47:16] [Server thread/INFO]: [Not Secure] <WatcherZJY> laidian lianmai
-[10:47:16] [Server thread/INFO]: [Lanzaw: Teleported Lanzaw to lemonjuice]
-[10:47:16] [Server thread/WARN]: Lanzaw moved too quickly! -630.052387667822,-41.0,-162.28533499110176
-[10:48:02] [Server thread/INFO]: [Not Secure] <lemonjuice> 晚上请睡觉
-[10:48:04] [Server thread/INFO]: Lanzaw has made the advancement [Sweet Dreams]
-[10:48:09] [Server thread/INFO]: [Not Secure] <lemonjuice> 不然又要被炸了
-[10:48:11] [Server thread/INFO]: [Not Secure] <WatcherZJY> dengyixia
-[10:48:39] [Server thread/INFO]: [WatcherZJY: Teleported WatcherZJY to lemonjuice]
-[10:48:48] [Server thread/INFO]: [Not Secure] [Server] waksay hotdog
-[10:48:51] [Server thread/INFO]: [Not Secure] <WatcherZJY> ?zenme sihui shuiwode chuang
-[10:49:18] [Server thread/INFO]: [Lanzaw: Gave 1 [Blue Bed] to Lanzaw]
-[10:49:39] [Server thread/INFO]: [WatcherZJY: Gave 1 [TNT] to Lanzaw]
-[10:49:44] [Server thread/INFO]: [Not Secure] <lemonjuice> ?
-[10:49:47] [Server thread/INFO]: [Not Secure] <lemonjuice> juj
-[10:50:13] [Server thread/INFO]: [Not Secure] <WatcherZJY> be nibuyaofangzaijialia
-[10:50:17] [Server thread/INFO]: [Not Secure] <WatcherZJY> nayihuier jiayaomeile
-[10:50:28] [Server thread/INFO]: [WatcherZJY: Teleported WatcherZJY to 9.500000, -49.000000, -62.500000]
-[10:50:29] [Server thread/INFO]: [Not Secure] <Lanzaw> 那你撸掉好了
-[10:51:36] [Server thread/INFO]: [Lanzaw: Gave 64 [Cooked Chicken] to Lanzaw]
-[10:51:39] [Server thread/INFO]: [Not Secure] <lemonjuice> ?
-[10:51:42] [Server thread/INFO]: [Not Secure] <WatcherZJY> ????
-[10:51:49] [Server thread/INFO]: [Not Secure] <WatcherZJY> duoshaoyoudian lipule
-[10:51:52] [Server thread/INFO]: [Not Secure] <Lanzaw> bsd
-[10:52:12] [Server thread/INFO]: [Not Secure] <Lanzaw> 这和重生没什么区别
-[10:52:22] [Server thread/INFO]: [Not Secure] <Lanzaw> 只是懒得反复去世
-[10:52:59] [Server thread/INFO]: [Not Secure] <WatcherZJY> be
-[10:53:15] [Server thread/INFO]: [Not Secure] <Lanzaw> 现在要做什么
-[10:53:37] [Server thread/INFO]: [Not Secure] <WatcherZJY> laibangwo kai ye kuang
-[10:53:47] [Server thread/INFO]: [Not Secure] <Lanzaw> ?
-[10:54:12] [Server thread/INFO]: [Not Secure] <Lanzaw> 看不懂
-[10:54:32] [Server thread/INFO]: [Lanzaw: Teleported Lanzaw to WatcherZJY]
-[10:54:32] [Server thread/WARN]: Lanzaw moved too quickly! -707.50784333299,-163.0,-81.89441172484972
-[10:54:32] [Server thread/WARN]: Lanzaw moved too quickly! -707.50784333299,-163.0,-81.89441172484972
-[10:54:46] [Server thread/INFO]: [Not Secure] <WatcherZJY> kaixindekuangkeng
-[10:54:53] [Server thread/INFO]: [Not Secure] <Lanzaw> juj
-[10:54:58] [Server thread/INFO]: [Not Secure] <WatcherZJY> be nizenmeyijing zuanshijia
-[10:55:09] [Server thread/INFO]: [Not Secure] <Lanzaw> 应当寻找野生矿道
-[10:55:12] [Server thread/INFO]: [Not Secure] <Lanzaw> 挖的
-[10:55:13] [Server thread/INFO]: [Not Secure] <WatcherZJY> cuowucuowu
-[10:55:32] [Server thread/INFO]: [Not Secure] <lemonjuice> 我挂机等小麦长出来
-[10:55:36] [Server thread/INFO]: [Not Secure] <WatcherZJY> nilaiwozheli
-[10:55:45] [Server thread/INFO]: [Not Secure] <WatcherZJY> nikan zhejiushi zijiwade kuangdong demeili
-[10:55:54] [Server thread/INFO]: [Not Secure] <Lanzaw> 6
-[10:56:10] [Server thread/INFO]: [Not Secure] <WatcherZJY> 6 ge
-[10:57:04] [Server thread/INFO]: [Not Secure] <WatcherZJY> woyouwadao 4 ge
-[10:58:58] [Server thread/INFO]: [Not Secure] <lemonjuice> 挂机一会儿
-[11:01:32] [Server thread/INFO]: [WatcherZJY: Gave 1 [TNT] to WatcherZJY]
-[11:03:06] [Server thread/INFO]: [Not Secure] <WatcherZJY> tnt
-[11:03:10] [Server thread/INFO]: [Not Secure] <WatcherZJY> zenmeyong
-[11:03:40] [Server thread/INFO]: [Not Secure] <WatcherZJY> nimenkeyikandao wogeilezijiyige tnt ma
-[11:04:05] [Server thread/INFO]: [Not Secure] <Lanzaw> sd
-[11:05:40] [Server thread/INFO]: [WatcherZJY: Gave 2 [TNT] to WatcherZJY]
-[11:09:13] [Server thread/INFO]: lemonjuice was slain by Zombie
-[11:12:08] [Server thread/INFO]: Lanzaw burned to death
-[11:14:15] [Server thread/INFO]: [Not Secure] <lemonjuice> ??
-[11:14:23] [Server thread/INFO]: [Not Secure] <Lanzaw> zml
-[11:14:28] [Server thread/INFO]: [Not Secure] <lemonjuice> 怎么把我种的树撸了
-[11:14:37] [Server thread/INFO]: [Not Secure] <Lanzaw> ni yao zuo shen me
-[11:14:45] [Server thread/INFO]: [Not Secure] <Lanzaw> yin wei lack wood
-[11:16:08] [Server thread/INFO]: [Not Secure] <Lanzaw> 你要胡萝卜吗
-[11:16:34] [Server thread/INFO]: [Not Secure] <Lanzaw> @zb
-[11:16:40] [Server thread/INFO]: [Not Secure] <lemonjuice> ky
-[11:17:03] [Server thread/INFO]: [Lanzaw: Teleported Lanzaw to lemonjuice]
-[11:17:03] [Server thread/WARN]: Lanzaw moved too quickly! 148.49409597107189,8.0,-144.93747360388093
-[11:18:04] [Server thread/INFO]: [Not Secure] <lemonjuice> 这皮肤好弱智啊
-[11:20:02] [Server thread/INFO]: [Not Secure] <lemonjuice> 我出去换个皮
-[11:20:04] [Server thread/INFO]: lemonjuice lost connection: Disconnected
-[11:20:04] [Server thread/INFO]: lemonjuice left the game
-[11:20:51] [Server thread/INFO]: Lanzaw fell from a high place
-[11:20:52] [Server thread/WARN]: Lanzaw moved too quickly! 152.4109996048872,98.0,-181.7411854817159
-[11:23:03] [Server thread/INFO]: [Not Secure] <WatcherZJY> haoxiangtoutougeiwuqifumo
-[11:23:07] [Server thread/INFO]: [Not Secure] <WatcherZJY> haoxiangyaogeshiyun
-[11:23:19] [Server thread/INFO]: [Not Secure] <Lanzaw> hotdog
-[11:23:44] [Server thread/INFO]: Lanzaw fell from a high place
-[11:23:45] [Server thread/WARN]: Lanzaw moved too quickly! 152.82796840652276,102.0,-181.04623405288115
-[11:24:54] [Server thread/INFO]: [Not Secure] <WatcherZJY> sihui kebukeyirangwofumo
-[11:25:00] [Server thread/INFO]: [Not Secure] <WatcherZJY> laige shiyun
-[11:25:01] [Server thread/INFO]: [Not Secure] <Lanzaw> whynot
-[11:25:08] [Server thread/INFO]: [Not Secure] <WatcherZJY> landeshanglaiyongfumotaile
-[11:25:19] [Server thread/INFO]: [Not Secure] <WatcherZJY> wodaoxianzaicaiwale liangzuban zuanshi
-[11:25:44] [Server thread/INFO]: [WatcherZJY: Applied enchantment Fortune III to WatcherZJY's item]
-[11:26:56] [Server thread/INFO]: Lanzaw has made the advancement [Hot Stuff]
-[11:29:53] [Server thread/INFO]: Lanzaw has made the advancement [Ice Bucket Challenge]
-[11:31:14] [Server thread/INFO]: Lanzaw has made the advancement [We Need to Go Deeper]
-[11:31:15] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2461ms or 49 ticks behind
-[11:31:59] [Server thread/INFO]: [Not Secure] <Lanzaw> fantastic biome
-[11:33:08] [Server thread/INFO]: [Not Secure] <Lanzaw> 62 89 3
-[11:36:07] [Server thread/INFO]: lemonlemon[/127.0.0.1:12828] logged in with entity id 35953 at (-17.5, 67.0, -51.5)
-[11:36:07] [Server thread/INFO]: lemonlemon joined the game
-[11:36:11] [Server thread/WARN]: Mismatch in destroy block pos: hx{x=0, y=0, z=0} hx{x=-21, y=68, z=-54}
-[11:36:33] [Server thread/INFO]: [Not Secure] <lemonlemon> ?
-[11:36:40] [Server thread/INFO]: [Not Secure] <lemonlemon> 出现一些问题
-[11:36:44] [Server thread/INFO]: lemonlemon lost connection: Disconnected
-[11:36:44] [Server thread/INFO]: lemonlemon left the game
-[11:43:48] [Server thread/INFO]: Lanzaw lost connection: Disconnected
-[11:43:48] [Server thread/INFO]: Lanzaw left the game
-[11:48:27] [Server thread/INFO]: WatcherZJY was killed
-[11:48:27] [Server thread/INFO]: [WatcherZJY: Killed WatcherZJY]
-[11:49:00] [Server thread/INFO]: czczlcz[/127.0.0.1:12934] logged in with entity id 39023 at (1278.9335412266842, 63.0, 339.3616500810032)
-[11:49:00] [Server thread/INFO]: czczlcz joined the game
-[11:49:15] [Server thread/INFO]: [czczlcz: Teleported czczlcz to WatcherZJY]
-[11:49:24] [Server thread/INFO]: czczlcz has made the advancement [Sweet Dreams]
-[11:52:18] [Server thread/INFO]: lemonjuice[/127.0.0.1:13046] logged in with entity id 39629 at (645.649441968238, 72.0, -1.2394819986739076)
-[11:52:18] [Server thread/INFO]: lemonjuice joined the game
-[11:53:23] [Server thread/INFO]: WatcherZJY has made the advancement [Cover Me with Diamonds]
-[11:53:43] [Server thread/INFO]: czczlcz has made the advancement [Cover Me with Diamonds]
-[11:54:04] [Server thread/INFO]: lemonjuice lost connection: Disconnected
-[11:54:04] [Server thread/INFO]: lemonjuice left the game
-[11:54:28] [Server thread/INFO]: Stopping the server
-[11:54:28] [Server thread/INFO]: Stopping server
-[11:54:28] [Server thread/INFO]: Saving players
-[11:54:28] [Server thread/INFO]: WatcherZJY lost connection: Server closed
-[11:54:28] [Server thread/INFO]: WatcherZJY left the game
-[11:54:28] [Server thread/INFO]: Saving worlds
-[11:54:28] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[11:54:28] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[11:54:28] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[11:54:28] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[11:54:28] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[11:54:28] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[11:54:28] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[12:12:43] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[12:12:45] [ServerMain/INFO]: Loaded 7 recipes
+[12:12:45] [ServerMain/INFO]: Loaded 1271 advancements
+[12:12:46] [Server thread/INFO]: Starting minecraft server version 1.20.4
+[12:12:46] [Server thread/INFO]: Loading properties
+[12:12:46] [Server thread/INFO]: Default game type: SURVIVAL
+[12:12:46] [Server thread/INFO]: Generating keypair
+[12:12:46] [Server thread/INFO]: Starting Minecraft server on *:25565
+[12:12:47] [Server thread/INFO]: Using default channel type
+[12:12:47] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[12:12:47] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[12:12:47] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[12:12:47] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[12:12:47] [Server thread/INFO]: Preparing level "world"
+[12:12:48] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[12:12:50] [Worker-Main-12/INFO]: Preparing spawn area: 0%
+[12:12:50] [Worker-Main-7/INFO]: Preparing spawn area: 0%
+[12:12:50] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[12:12:50] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[12:12:50] [Worker-Main-7/INFO]: Preparing spawn area: 0%
+[12:12:50] [Worker-Main-14/INFO]: Preparing spawn area: 0%
+[12:12:51] [Worker-Main-7/INFO]: Preparing spawn area: 0%
+[12:12:51] [Worker-Main-5/INFO]: Preparing spawn area: 86%
+[12:12:51] [Server thread/INFO]: Time elapsed: 3551 ms
+[12:12:51] [Server thread/INFO]: Done (4.431s)! For help, type "help"
+[12:12:54] [Server thread/INFO]: Lanzaw[/127.0.0.1:13311] logged in with entity id 141 at (122.67915287657365, 52.0, 261.0110199836848)
+[12:12:54] [Server thread/INFO]: Lanzaw joined the game
+[12:13:05] [Server thread/INFO]: WatcherZJY[/127.0.0.1:13313] logged in with entity id 335 at (638.4879898876928, 77.0, 26.641777108314198)
+[12:13:05] [Server thread/INFO]: WatcherZJY joined the game
+[12:13:12] [Server thread/INFO]: czczlcz[/127.0.0.1:13314] logged in with entity id 626 at (648.3000000119209, 64.24918707874468, 86.40516746087445)
+[12:13:12] [Server thread/INFO]: czczlcz joined the game
+[12:13:41] [Server thread/INFO]: Lanzaw lost connection: Disconnected
+[12:13:41] [Server thread/INFO]: Lanzaw left the game
+[12:17:26] [Server thread/INFO]: WatcherZJY has made the advancement [Enchanter]
+[12:28:20] [Server thread/INFO]: [WatcherZJY: Teleported WatcherZJY to 1278.500000, 63.000000, 339.500000]
+[12:28:20] [Server thread/WARN]: WatcherZJY moved too quickly! 656.6458684514256,-38.0,406.2126561014051
+[12:28:52] [Server thread/INFO]: WatcherZJY has made the advancement [Who is Cutting Onions?]
+[12:30:46] [Server thread/INFO]: czczlcz has made the advancement [The Parrots and the Bats]
+[12:33:08] [Server thread/INFO]: [WatcherZJY: Teleported WatcherZJY to czczlcz]
+[12:40:12] [Server thread/INFO]: [czczlcz: Teleported czczlcz to WatcherZJY]
+[12:40:35] [Server thread/INFO]: czczlcz was killed
+[12:40:35] [Server thread/INFO]: [czczlcz: Killed czczlcz]
+[12:44:48] [Server thread/INFO]: [WatcherZJY: Teleported WatcherZJY to 602.500000, 63.000000, 500.500000]
+[12:44:48] [Server thread/WARN]: WatcherZJY moved too quickly! -0.23770422628126653,0.0,426.2649983522791
+[12:44:58] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9159ms or 183 ticks behind
+[12:50:56] [Server thread/INFO]: [WatcherZJY: Teleported WatcherZJY to czczlcz]
+[12:59:34] [Server thread/INFO]: WatcherZJY has made the advancement [Hot Stuff]
+[12:59:47] [Server thread/INFO]: WatcherZJY has made the advancement [Ice Bucket Challenge]
+[13:01:27] [Server thread/INFO]: WatcherZJY burned to death
+[13:01:38] [Server thread/INFO]: [WatcherZJY: Teleported WatcherZJY to 582.500000, 2.000000, 68.500000]
+[13:13:47] [Server thread/INFO]: Lanzaw[/127.0.0.1:13840] logged in with entity id 15438 at (129.0991161140499, 55.0, 254.6599253364678)
+[13:13:47] [Server thread/INFO]: Lanzaw joined the game
+[13:16:33] [Server thread/INFO]: [WatcherZJY: Teleported WatcherZJY to 1285.500000, 65.000000, 36.500000]
+[13:16:33] [Server thread/WARN]: WatcherZJY moved too quickly! 759.1999999880791,125.0,65.19999998807907
+[13:17:08] [Server thread/INFO]: [WatcherZJY: Teleported WatcherZJY to 1265.500000, 65.000000, 336.500000]
+[13:17:57] [Server thread/INFO]: Lanzaw has completed the challenge [Return to Sender]
+[13:18:40] [Server thread/INFO]: WatcherZJY has made the advancement [We Need to Go Deeper]
+[13:19:39] [Server thread/WARN]: Mismatch in destroy block pos: hx{x=635, y=62, z=112} hx{x=635, y=61, z=112}
+[13:24:03] [Server thread/INFO]: Lanzaw has made the advancement [Those Were the Days]
+[13:24:39] [Server thread/INFO]: czczlcz has made the advancement [A Seedy Place]
+[13:24:50] [Server thread/INFO]: WatcherZJY has made the advancement [Hidden in the Depths]
+[13:25:42] [Server thread/INFO]: Lanzaw was slain by Piglin Brute
+[13:26:11] [Server thread/INFO]: czczlcz lost connection: Disconnected
+[13:26:11] [Server thread/INFO]: czczlcz left the game
+[13:26:13] [Server thread/INFO]: [Lanzaw: Teleported Lanzaw to WatcherZJY]
+[13:27:00] [Server thread/INFO]: czczlcz[/127.0.0.1:13917] logged in with entity id 21588 at (640.2498720969044, 70.0, 10.967952215643422)
+[13:27:00] [Server thread/INFO]: czczlcz joined the game
+[13:37:38] [Server thread/INFO]: Lanzaw has made the advancement [War Pigs]
+[13:38:39] [Server thread/INFO]: Lanzaw was slain by Hoglin
+[13:39:04] [Server thread/INFO]: Lanzaw lost connection: Timed out
+[13:39:04] [Server thread/INFO]: Lanzaw left the game
+[13:39:20] [Server thread/INFO]: Lanzaw[/127.0.0.1:13980] logged in with entity id 27133 at (646.6777541260271, 81.0, 60.476907249570665)
+[13:39:20] [Server thread/INFO]: Lanzaw joined the game
+[13:39:44] [Server thread/INFO]: [Lanzaw: Teleported Lanzaw to 1285.500000, 65.000000, 336.500000]
+[13:39:44] [Server thread/WARN]: Lanzaw moved too quickly! 638.838846077966,-17.0,273.44695754587985
+[13:39:44] [Server thread/WARN]: Lanzaw moved too quickly! 638.838846077966,-17.0,273.44695754587985
+[13:40:37] [Server thread/INFO]: lemoeJuice[/127.0.0.1:13986] logged in with entity id 27876 at (-11.5, 73.0, -40.5)
+[13:40:37] [Server thread/INFO]: lemoeJuice joined the game
+[13:40:59] [Server thread/WARN]: WatcherZJY moved wrongly!
+[13:41:05] [Server thread/INFO]: lemoeJuice lost connection: Disconnected
+[13:41:05] [Server thread/INFO]: lemoeJuice left the game
+[13:41:09] [Server thread/INFO]: WatcherZJY tried to swim in lava
+[13:50:18] [Server thread/INFO]: Lanzaw was slain by Piglin
+[13:50:23] [Server thread/INFO]: [Lanzaw: Teleported Lanzaw to 1285.500000, 65.000000, 336.500000]
+[13:50:28] [Server thread/INFO]: [Lanzaw: Teleported Lanzaw to 1285.500000, 65.000000, 336.500000]
+[13:50:41] [Server thread/INFO]: lemoeJuice[/127.0.0.1:14086] logged in with entity id 31370 at (-11.5, 73.0, -40.5)
+[13:50:41] [Server thread/INFO]: lemoeJuice joined the game
+[13:50:48] [Server thread/INFO]: [Lanzaw: Teleported Lanzaw to czczlcz]
+[13:51:04] [Server thread/INFO]: lemoeJuice lost connection: Disconnected
+[13:51:04] [Server thread/INFO]: lemoeJuice left the game
+[13:51:07] [Server thread/INFO]: Lanzaw lost connection: Disconnected
+[13:51:07] [Server thread/INFO]: Lanzaw left the game
+[13:51:15] [Server thread/INFO]: Lanzaw[/127.0.0.1:14093] logged in with entity id 31571 at (640.6840574667197, 62.9375, 115.51499325333194)
+[13:51:15] [Server thread/INFO]: Lanzaw joined the game
+[13:51:56] [Server thread/INFO]: Lanzaw was killed
+[13:51:56] [Server thread/INFO]: [Lanzaw: Killed Lanzaw]
+[13:51:59] [Server thread/WARN]: Lanzaw moved too quickly! 1.1645947175344418,7.0,-114.85541556173705
+[13:59:43] [Server thread/INFO]: [Lanzaw: Teleported Lanzaw to 1285.500000, 65.000000, 336.500000]
+[13:59:43] [Server thread/WARN]: Lanzaw moved too quickly! 652.8875166207641,-7.0,317.80000001192093
+[13:59:43] [Server thread/WARN]: Lanzaw moved too quickly! 652.8875166207641,-7.0,317.80000001192093
+[14:00:11] [Server thread/INFO]: Lanzaw lost connection: Disconnected
+[14:00:11] [Server thread/INFO]: Lanzaw left the game
+[14:01:19] [Server thread/INFO]: Saving the game (this may take a moment!)
+[14:01:19] [Server thread/INFO]: Saved the game
+[14:01:25] [Server thread/INFO]: Stopping the server
+[14:01:25] [Server thread/INFO]: Stopping server
+[14:01:25] [Server thread/INFO]: Saving players
+[14:01:25] [Server thread/INFO]: czczlcz lost connection: Server closed
+[14:01:25] [Server thread/INFO]: czczlcz left the game
+[14:01:25] [Server thread/INFO]: Saving worlds
+[14:01:25] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[14:01:26] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[14:01:26] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[14:01:26] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[14:01:26] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[14:01:26] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[14:01:26] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
