@@ -1,117 +1,609 @@
-[12:12:43] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[12:12:45] [ServerMain/INFO]: Loaded 7 recipes
-[12:12:45] [ServerMain/INFO]: Loaded 1271 advancements
-[12:12:46] [Server thread/INFO]: Starting minecraft server version 1.20.4
-[12:12:46] [Server thread/INFO]: Loading properties
-[12:12:46] [Server thread/INFO]: Default game type: SURVIVAL
-[12:12:46] [Server thread/INFO]: Generating keypair
-[12:12:46] [Server thread/INFO]: Starting Minecraft server on *:25565
-[12:12:47] [Server thread/INFO]: Using default channel type
-[12:12:47] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[12:12:47] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[12:12:47] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[12:12:47] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[12:12:47] [Server thread/INFO]: Preparing level "world"
-[12:12:48] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[12:12:50] [Worker-Main-12/INFO]: Preparing spawn area: 0%
-[12:12:50] [Worker-Main-7/INFO]: Preparing spawn area: 0%
-[12:12:50] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[12:12:50] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[12:12:50] [Worker-Main-7/INFO]: Preparing spawn area: 0%
-[12:12:50] [Worker-Main-14/INFO]: Preparing spawn area: 0%
-[12:12:51] [Worker-Main-7/INFO]: Preparing spawn area: 0%
-[12:12:51] [Worker-Main-5/INFO]: Preparing spawn area: 86%
-[12:12:51] [Server thread/INFO]: Time elapsed: 3551 ms
-[12:12:51] [Server thread/INFO]: Done (4.431s)! For help, type "help"
-[12:12:54] [Server thread/INFO]: Lanzaw[/127.0.0.1:13311] logged in with entity id 141 at (122.67915287657365, 52.0, 261.0110199836848)
-[12:12:54] [Server thread/INFO]: Lanzaw joined the game
-[12:13:05] [Server thread/INFO]: WatcherZJY[/127.0.0.1:13313] logged in with entity id 335 at (638.4879898876928, 77.0, 26.641777108314198)
-[12:13:05] [Server thread/INFO]: WatcherZJY joined the game
-[12:13:12] [Server thread/INFO]: czczlcz[/127.0.0.1:13314] logged in with entity id 626 at (648.3000000119209, 64.24918707874468, 86.40516746087445)
-[12:13:12] [Server thread/INFO]: czczlcz joined the game
-[12:13:41] [Server thread/INFO]: Lanzaw lost connection: Disconnected
-[12:13:41] [Server thread/INFO]: Lanzaw left the game
-[12:17:26] [Server thread/INFO]: WatcherZJY has made the advancement [Enchanter]
-[12:28:20] [Server thread/INFO]: [WatcherZJY: Teleported WatcherZJY to 1278.500000, 63.000000, 339.500000]
-[12:28:20] [Server thread/WARN]: WatcherZJY moved too quickly! 656.6458684514256,-38.0,406.2126561014051
-[12:28:52] [Server thread/INFO]: WatcherZJY has made the advancement [Who is Cutting Onions?]
-[12:30:46] [Server thread/INFO]: czczlcz has made the advancement [The Parrots and the Bats]
-[12:33:08] [Server thread/INFO]: [WatcherZJY: Teleported WatcherZJY to czczlcz]
-[12:40:12] [Server thread/INFO]: [czczlcz: Teleported czczlcz to WatcherZJY]
-[12:40:35] [Server thread/INFO]: czczlcz was killed
-[12:40:35] [Server thread/INFO]: [czczlcz: Killed czczlcz]
-[12:44:48] [Server thread/INFO]: [WatcherZJY: Teleported WatcherZJY to 602.500000, 63.000000, 500.500000]
-[12:44:48] [Server thread/WARN]: WatcherZJY moved too quickly! -0.23770422628126653,0.0,426.2649983522791
-[12:44:58] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9159ms or 183 ticks behind
-[12:50:56] [Server thread/INFO]: [WatcherZJY: Teleported WatcherZJY to czczlcz]
-[12:59:34] [Server thread/INFO]: WatcherZJY has made the advancement [Hot Stuff]
-[12:59:47] [Server thread/INFO]: WatcherZJY has made the advancement [Ice Bucket Challenge]
-[13:01:27] [Server thread/INFO]: WatcherZJY burned to death
-[13:01:38] [Server thread/INFO]: [WatcherZJY: Teleported WatcherZJY to 582.500000, 2.000000, 68.500000]
-[13:13:47] [Server thread/INFO]: Lanzaw[/127.0.0.1:13840] logged in with entity id 15438 at (129.0991161140499, 55.0, 254.6599253364678)
-[13:13:47] [Server thread/INFO]: Lanzaw joined the game
-[13:16:33] [Server thread/INFO]: [WatcherZJY: Teleported WatcherZJY to 1285.500000, 65.000000, 36.500000]
-[13:16:33] [Server thread/WARN]: WatcherZJY moved too quickly! 759.1999999880791,125.0,65.19999998807907
-[13:17:08] [Server thread/INFO]: [WatcherZJY: Teleported WatcherZJY to 1265.500000, 65.000000, 336.500000]
-[13:17:57] [Server thread/INFO]: Lanzaw has completed the challenge [Return to Sender]
-[13:18:40] [Server thread/INFO]: WatcherZJY has made the advancement [We Need to Go Deeper]
-[13:19:39] [Server thread/WARN]: Mismatch in destroy block pos: hx{x=635, y=62, z=112} hx{x=635, y=61, z=112}
-[13:24:03] [Server thread/INFO]: Lanzaw has made the advancement [Those Were the Days]
-[13:24:39] [Server thread/INFO]: czczlcz has made the advancement [A Seedy Place]
-[13:24:50] [Server thread/INFO]: WatcherZJY has made the advancement [Hidden in the Depths]
-[13:25:42] [Server thread/INFO]: Lanzaw was slain by Piglin Brute
-[13:26:11] [Server thread/INFO]: czczlcz lost connection: Disconnected
-[13:26:11] [Server thread/INFO]: czczlcz left the game
-[13:26:13] [Server thread/INFO]: [Lanzaw: Teleported Lanzaw to WatcherZJY]
-[13:27:00] [Server thread/INFO]: czczlcz[/127.0.0.1:13917] logged in with entity id 21588 at (640.2498720969044, 70.0, 10.967952215643422)
-[13:27:00] [Server thread/INFO]: czczlcz joined the game
-[13:37:38] [Server thread/INFO]: Lanzaw has made the advancement [War Pigs]
-[13:38:39] [Server thread/INFO]: Lanzaw was slain by Hoglin
-[13:39:04] [Server thread/INFO]: Lanzaw lost connection: Timed out
-[13:39:04] [Server thread/INFO]: Lanzaw left the game
-[13:39:20] [Server thread/INFO]: Lanzaw[/127.0.0.1:13980] logged in with entity id 27133 at (646.6777541260271, 81.0, 60.476907249570665)
-[13:39:20] [Server thread/INFO]: Lanzaw joined the game
-[13:39:44] [Server thread/INFO]: [Lanzaw: Teleported Lanzaw to 1285.500000, 65.000000, 336.500000]
-[13:39:44] [Server thread/WARN]: Lanzaw moved too quickly! 638.838846077966,-17.0,273.44695754587985
-[13:39:44] [Server thread/WARN]: Lanzaw moved too quickly! 638.838846077966,-17.0,273.44695754587985
-[13:40:37] [Server thread/INFO]: lemoeJuice[/127.0.0.1:13986] logged in with entity id 27876 at (-11.5, 73.0, -40.5)
-[13:40:37] [Server thread/INFO]: lemoeJuice joined the game
-[13:40:59] [Server thread/WARN]: WatcherZJY moved wrongly!
-[13:41:05] [Server thread/INFO]: lemoeJuice lost connection: Disconnected
-[13:41:05] [Server thread/INFO]: lemoeJuice left the game
-[13:41:09] [Server thread/INFO]: WatcherZJY tried to swim in lava
-[13:50:18] [Server thread/INFO]: Lanzaw was slain by Piglin
-[13:50:23] [Server thread/INFO]: [Lanzaw: Teleported Lanzaw to 1285.500000, 65.000000, 336.500000]
-[13:50:28] [Server thread/INFO]: [Lanzaw: Teleported Lanzaw to 1285.500000, 65.000000, 336.500000]
-[13:50:41] [Server thread/INFO]: lemoeJuice[/127.0.0.1:14086] logged in with entity id 31370 at (-11.5, 73.0, -40.5)
-[13:50:41] [Server thread/INFO]: lemoeJuice joined the game
-[13:50:48] [Server thread/INFO]: [Lanzaw: Teleported Lanzaw to czczlcz]
-[13:51:04] [Server thread/INFO]: lemoeJuice lost connection: Disconnected
-[13:51:04] [Server thread/INFO]: lemoeJuice left the game
-[13:51:07] [Server thread/INFO]: Lanzaw lost connection: Disconnected
-[13:51:07] [Server thread/INFO]: Lanzaw left the game
-[13:51:15] [Server thread/INFO]: Lanzaw[/127.0.0.1:14093] logged in with entity id 31571 at (640.6840574667197, 62.9375, 115.51499325333194)
-[13:51:15] [Server thread/INFO]: Lanzaw joined the game
-[13:51:56] [Server thread/INFO]: Lanzaw was killed
-[13:51:56] [Server thread/INFO]: [Lanzaw: Killed Lanzaw]
-[13:51:59] [Server thread/WARN]: Lanzaw moved too quickly! 1.1645947175344418,7.0,-114.85541556173705
-[13:59:43] [Server thread/INFO]: [Lanzaw: Teleported Lanzaw to 1285.500000, 65.000000, 336.500000]
-[13:59:43] [Server thread/WARN]: Lanzaw moved too quickly! 652.8875166207641,-7.0,317.80000001192093
-[13:59:43] [Server thread/WARN]: Lanzaw moved too quickly! 652.8875166207641,-7.0,317.80000001192093
-[14:00:11] [Server thread/INFO]: Lanzaw lost connection: Disconnected
-[14:00:11] [Server thread/INFO]: Lanzaw left the game
-[14:01:19] [Server thread/INFO]: Saving the game (this may take a moment!)
-[14:01:19] [Server thread/INFO]: Saved the game
-[14:01:25] [Server thread/INFO]: Stopping the server
-[14:01:25] [Server thread/INFO]: Stopping server
-[14:01:25] [Server thread/INFO]: Saving players
-[14:01:25] [Server thread/INFO]: czczlcz lost connection: Server closed
-[14:01:25] [Server thread/INFO]: czczlcz left the game
-[14:01:25] [Server thread/INFO]: Saving worlds
-[14:01:25] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[14:01:26] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[14:01:26] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[14:01:26] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[14:01:26] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[14:01:26] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[14:01:26] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[14:14:15] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[14:14:17] [ServerMain/INFO]: Loaded 7 recipes
+[14:14:18] [ServerMain/INFO]: Loaded 1271 advancements
+[14:14:19] [Server thread/INFO]: Starting minecraft server version 1.20.4
+[14:14:19] [Server thread/INFO]: Loading properties
+[14:14:19] [Server thread/INFO]: Default game type: SURVIVAL
+[14:14:19] [Server thread/INFO]: Generating keypair
+[14:14:19] [Server thread/INFO]: Starting Minecraft server on *:25565
+[14:14:19] [Server thread/INFO]: Using default channel type
+[14:14:19] [Server thread/INFO]: Preparing level "world"
+[14:14:20] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[14:14:23] [Worker-Main-8/INFO]: Preparing spawn area: 0%
+[14:14:23] [Worker-Main-7/INFO]: Preparing spawn area: 0%
+[14:14:23] [Worker-Main-12/INFO]: Preparing spawn area: 0%
+[14:14:23] [Worker-Main-12/INFO]: Preparing spawn area: 0%
+[14:14:23] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[14:14:23] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[14:14:23] [Worker-Main-11/INFO]: Preparing spawn area: 0%
+[14:14:24] [Worker-Main-5/INFO]: Preparing spawn area: 17%
+[14:14:24] [Server thread/INFO]: Time elapsed: 3910 ms
+[14:14:24] [Server thread/INFO]: Done (5.008s)! For help, type "help"
+[14:14:26] [User Authenticator #1/INFO]: UUID of player czczlcz is 23ec5ac3-7730-4230-bda3-6ff47a357607
+[14:14:26] [Server thread/INFO]: czczlcz[/127.0.0.1:14297] logged in with entity id 16 at (634.0940435734075, 79.0, 43.94845546361414)
+[14:14:26] [Server thread/INFO]: czczlcz joined the game
+[14:14:26] [Server thread/INFO]: czczlcz has made the advancement [Cover Me with Diamonds]
+[14:14:26] [Server thread/INFO]: czczlcz has made the advancement [Isn't It Iron Pick]
+[14:14:26] [Server thread/INFO]: czczlcz has made the advancement [Acquire Hardware]
+[14:14:49] [User Authenticator #2/INFO]: UUID of player WatcherZJY is a9c90569-4b3a-45c0-a955-47248cc3f13c
+[14:14:49] [Server thread/INFO]: WatcherZJY[/127.0.0.1:14300] logged in with entity id 368 at (632.2996641484987, 77.0, 36.09011338595296)
+[14:14:49] [Server thread/INFO]: WatcherZJY joined the game
+[14:14:49] [Server thread/INFO]: WatcherZJY has made the advancement [Cover Me with Diamonds]
+[14:14:49] [Server thread/INFO]: WatcherZJY has made the advancement [Diamonds!]
+[14:14:49] [Server thread/INFO]: WatcherZJY has made the advancement [Acquire Hardware]
+[14:15:02] [User Authenticator #3/INFO]: UUID of player Lanzaw is 92b2c812-239c-4aaf-9a94-fa5d8fc8171c
+[14:15:03] [Server thread/INFO]: Lanzaw[/127.0.0.1:14304] logged in with entity id 409 at (150.7063719014726, 62.0, 32.44982708137726)
+[14:15:03] [Server thread/INFO]: Lanzaw joined the game
+[14:15:03] [Server thread/INFO]: Lanzaw has made the advancement [Cover Me with Diamonds]
+[14:15:03] [Server thread/INFO]: Lanzaw has made the advancement [Diamonds!]
+[14:15:03] [Server thread/INFO]: Lanzaw has made the advancement [Stone Age]
+[14:15:03] [Server thread/INFO]: Lanzaw has made the advancement [Acquire Hardware]
+[14:15:03] [Server thread/INFO]: Lanzaw has made the advancement [Isn't It Iron Pick]
+[14:15:20] [Server thread/WARN]: Mismatch in destroy block pos: hx{x=667, y=80, z=6} hx{x=667, y=78, z=4}
+[14:15:26] [Server thread/WARN]: Mismatch in destroy block pos: hx{x=667, y=80, z=10} hx{x=668, y=78, z=11}
+[14:15:26] [Server thread/WARN]: Mismatch in destroy block pos: hx{x=667, y=80, z=10} hx{x=668, y=78, z=11}
+[14:15:35] [Server thread/INFO]: WatcherZJY has made the advancement [We Need to Go Deeper]
+[14:15:35] [Server thread/INFO]: [WatcherZJY: Teleported WatcherZJY to Lanzaw]
+[14:15:46] [Server thread/INFO]: Lanzaw has made the advancement [Monster Hunter]
+[14:16:12] [Server thread/INFO]: [WatcherZJY: Teleported WatcherZJY to Lanzaw]
+[14:16:15] [User Authenticator #4/INFO]: UUID of player lemoeJuice is 774c6801-1458-421c-a66f-f6ab8ed78235
+[14:16:16] [Server thread/INFO]: lemoeJuice[/127.0.0.1:14320] logged in with entity id 986 at (-19.5, 68.0, -44.5)
+[14:16:16] [Server thread/INFO]: lemoeJuice joined the game
+[14:17:03] [Server thread/INFO]: WatcherZJY has made the advancement [Monster Hunter]
+[14:18:00] [Server thread/INFO]: [WatcherZJY: Teleported WatcherZJY to Lanzaw]
+[14:18:31] [Server thread/INFO]: Nothing changed. The player already is an operator
+[14:18:56] [Server thread/INFO]: Made Lanzaw a server operator
+[14:19:18] [Server thread/INFO]: Made lemoeJuice a server operator
+[14:19:34] [Server thread/INFO]: <WatcherZJY> ee
+[14:19:55] [Server thread/INFO]: <Lanzaw> lemoiJuice
+[14:19:56] [Server thread/INFO]: [lemoeJuice: Teleported lemoeJuice to czczlcz]
+[14:19:56] [Server thread/WARN]: lemoeJuice moved too quickly! 654.3864164939946,-14.0,189.53510360928811
+[14:20:20] [Server thread/INFO]: WatcherZJY lost connection: Timed out
+[14:20:20] [Server thread/INFO]: WatcherZJY left the game
+[14:20:43] [User Authenticator #5/INFO]: UUID of player WatcherZJY is a9c90569-4b3a-45c0-a955-47248cc3f13c
+[14:20:43] [Server thread/INFO]: WatcherZJY[/127.0.0.1:14354] logged in with entity id 2844 at (194.221817041583, 78.0, -2.304284094445107)
+[14:20:43] [Server thread/INFO]: WatcherZJY joined the game
+[14:20:50] [Server thread/INFO]: [WatcherZJY: Teleported WatcherZJY to Lanzaw]
+[14:21:30] [Server thread/INFO]: WatcherZJY has made the advancement [Hidden in the Depths]
+[14:22:12] [Server thread/INFO]: [Lanzaw: Teleported Lanzaw to czczlcz]
+[14:22:42] [Server thread/INFO]: czczlcz lost connection: Timed out
+[14:22:42] [Server thread/INFO]: czczlcz left the game
+[14:22:53] [User Authenticator #6/INFO]: UUID of player czczlcz is 23ec5ac3-7730-4230-bda3-6ff47a357607
+[14:22:53] [Server thread/INFO]: czczlcz[/127.0.0.1:14367] logged in with entity id 3766 at (667.4460463367445, 63.0, 105.79484047732207)
+[14:22:53] [Server thread/INFO]: czczlcz joined the game
+[14:24:23] [Server thread/INFO]: Lanzaw has made the advancement [We Need to Go Deeper]
+[14:24:23] [Server thread/INFO]: [Lanzaw: Teleported Lanzaw to WatcherZJY]
+[14:24:48] [Server thread/INFO]: czczlcz has made the advancement [A Seedy Place]
+[14:25:21] [Server thread/INFO]: WatcherZJY tried to swim in lava
+[14:25:43] [Server thread/INFO]: lemoeJuice was blown up by Creeper
+[14:26:09] [Server thread/INFO]: czczlcz lost connection: Timed out
+[14:26:09] [Server thread/INFO]: czczlcz left the game
+[14:26:25] [User Authenticator #7/INFO]: UUID of player czczlcz is 23ec5ac3-7730-4230-bda3-6ff47a357607
+[14:26:26] [Server thread/INFO]: czczlcz[/127.0.0.1:14427] logged in with entity id 5247 at (644.6953309960717, 74.0, 58.65133907697498)
+[14:26:26] [Server thread/INFO]: czczlcz joined the game
+[14:26:43] [Server thread/INFO]: czczlcz was killed by Witch using magic
+[14:27:13] [Server thread/INFO]: czczlcz has made the advancement [The Parrots and the Bats]
+[14:27:29] [Server thread/INFO]: [WatcherZJY: Teleported WatcherZJY to Lanzaw]
+[14:27:45] [Server thread/INFO]: lemoeJuice has made the advancement [We Need to Go Deeper]
+[14:27:45] [Server thread/INFO]: [lemoeJuice: Teleported lemoeJuice to Lanzaw]
+[14:27:56] [Server thread/INFO]: czczlcz lost connection: Timed out
+[14:27:56] [Server thread/INFO]: czczlcz left the game
+[14:28:02] [Server thread/INFO]: lemoeJuice was fireballed by Ghast
+[14:28:09] [User Authenticator #8/INFO]: UUID of player czczlcz is 23ec5ac3-7730-4230-bda3-6ff47a357607
+[14:28:09] [Server thread/INFO]: czczlcz[/127.0.0.1:14439] logged in with entity id 6257 at (644.3000000119209, 73.0, 63.64769967896956)
+[14:28:09] [Server thread/INFO]: czczlcz joined the game
+[14:29:31] [Server thread/INFO]: Lanzaw has made the advancement [Not Today, Thank You]
+[14:29:44] [Server thread/INFO]: [lemoeJuice: Teleported lemoeJuice to czczlcz]
+[14:31:19] [Server thread/INFO]: Lanzaw tried to swim in lava
+[14:31:20] [Server thread/INFO]: [WatcherZJY: Teleported WatcherZJY to czczlcz]
+[14:31:39] [Server thread/INFO]: czczlcz lost connection: Timed out
+[14:31:39] [Server thread/INFO]: czczlcz left the game
+[14:31:57] [Server thread/INFO]: [Lanzaw: Teleported Lanzaw to 1285.500000, 65.000000, 336.500000]
+[14:32:50] [User Authenticator #9/INFO]: UUID of player czczlcz is 23ec5ac3-7730-4230-bda3-6ff47a357607
+[14:32:50] [Server thread/INFO]: czczlcz[/127.0.0.1:14466] logged in with entity id 8537 at (631.5341565957006, 71.9375, 11.699999988079071)
+[14:32:50] [Server thread/INFO]: czczlcz joined the game
+[14:33:42] [Server thread/INFO]: [WatcherZJY: Teleported WatcherZJY to Lanzaw]
+[14:33:42] [Server thread/INFO]: lemoeJuice has made the advancement [Getting an Upgrade]
+[14:33:46] [Server thread/INFO]: lemoeJuice has made the advancement [Suit Up]
+[14:35:18] [Server thread/INFO]: [WatcherZJY: Teleported WatcherZJY to Lanzaw]
+[14:36:29] [Server thread/INFO]: [WatcherZJY: Teleported WatcherZJY to Lanzaw]
+[14:37:08] [Server thread/INFO]: lemoeJuice has made the advancement [Stone Age]
+[14:37:14] [Server thread/INFO]: Lanzaw has completed the challenge [Return to Sender]
+[14:37:57] [Server thread/INFO]: [WatcherZJY: Teleported WatcherZJY to Lanzaw]
+[14:37:57] [Server thread/WARN]: WatcherZJY moved too quickly! -148.1704182701173,-9.0,-15.955372213642988
+[14:38:31] [Server thread/INFO]: [Lanzaw: Teleported Lanzaw to -343.416768, 63.000000, 243.363818]
+[14:38:43] [Server thread/INFO]: [WatcherZJY: Teleported WatcherZJY to Lanzaw]
+[14:39:22] [Server thread/INFO]: WatcherZJY was slain by Piglin Brute
+[14:39:31] [Server thread/INFO]: Lanzaw was slain by Piglin Brute
+[14:39:47] [Server thread/INFO]: [Lanzaw: Teleported Lanzaw to 1285.500000, 65.000000, 336.500000]
+[14:39:47] [Server thread/WARN]: Lanzaw moved too quickly! 648.0,-5.0,335.0
+[14:39:47] [Server thread/WARN]: Lanzaw moved too quickly! 648.0,-5.0,335.0
+[14:39:47] [Server thread/WARN]: Lanzaw moved too quickly! 648.0,-5.0,335.0
+[14:40:12] [Server thread/INFO]: [Lanzaw: Teleported Lanzaw to -342.500000, 63.000000, 243.500000]
+[14:40:37] [Server thread/INFO]: [WatcherZJY: Teleported WatcherZJY to Lanzaw]
+[14:40:54] [Server thread/INFO]: WatcherZJY has made the advancement [Stone Age]
+[14:40:56] [Server thread/INFO]: WatcherZJY has made the advancement [Those Were the Days]
+[14:41:20] [Server thread/INFO]: Lanzaw has made the advancement [Those Were the Days]
+[14:41:38] [Server thread/INFO]: WatcherZJY has made the advancement [War Pigs]
+[14:42:52] [Server thread/INFO]: Lanzaw has made the advancement [War Pigs]
+[14:45:49] [Server thread/INFO]: lemoeJuice has made the advancement [Monster Hunter]
+[14:46:08] [Server thread/INFO]: WatcherZJY has made the advancement [Who is Cutting Onions?]
+[14:53:42] [Server thread/INFO]: [WatcherZJY: Teleported WatcherZJY to czczlcz]
+[14:53:52] [Server thread/INFO]: [WatcherZJY: Teleported WatcherZJY to lemoeJuice]
+[14:55:32] [Server thread/INFO]: Lanzaw tried to swim in lava
+[14:55:51] [Server thread/INFO]: [Lanzaw: Teleported Lanzaw to 1285.500000, 65.000000, 336.500000]
+[14:55:51] [Server thread/WARN]: Lanzaw moved too quickly! 626.0433314873394,-14.0,319.7159293767818
+[14:55:53] [Server thread/INFO]: czczlcz lost connection: Timed out
+[14:55:53] [Server thread/INFO]: czczlcz left the game
+[14:55:53] [Server thread/WARN]: handleDisconnection() called twice
+[14:57:01] [User Authenticator #10/INFO]: UUID of player czczlcz is 23ec5ac3-7730-4230-bda3-6ff47a357607
+[14:57:01] [Server thread/INFO]: czczlcz[/127.0.0.1:14596] logged in with entity id 18696 at (637.8206628755269, 77.0, 27.67765444353018)
+[14:57:01] [Server thread/INFO]: czczlcz joined the game
+[15:00:42] [Server thread/INFO]: WatcherZJY has completed the challenge [Cover Me in Debris]
+[15:04:25] [Server thread/INFO]: [Lanzaw: Teleported Lanzaw to -342.500000, 63.000000, 243.500000]
+[15:04:25] [Server thread/WARN]: Lanzaw moved too quickly! -500.2189739397037,42.0,614.993185640642
+[15:04:25] [Server thread/WARN]: Lanzaw moved too quickly! -500.2189739397037,42.0,614.993185640642
+[15:04:25] [Server thread/WARN]: Lanzaw moved too quickly! -500.2189739397037,42.0,614.993185640642
+[15:04:47] [Server thread/INFO]: czczlcz lost connection: Timed out
+[15:04:47] [Server thread/INFO]: czczlcz left the game
+[15:05:03] [User Authenticator #11/INFO]: UUID of player czczlcz is 23ec5ac3-7730-4230-bda3-6ff47a357607
+[15:05:03] [Server thread/INFO]: czczlcz[/127.0.0.1:14663] logged in with entity id 21295 at (671.4579763647639, 91.0, 57.152957942209355)
+[15:05:03] [Server thread/INFO]: czczlcz joined the game
+[15:05:14] [Server thread/INFO]: Lanzaw fell from a high place
+[15:05:33] [Server thread/INFO]: czczlcz lost connection: Timed out
+[15:05:33] [Server thread/INFO]: czczlcz left the game
+[15:05:40] [Server thread/INFO]: [Lanzaw: Teleported Lanzaw to 1285.500000, 65.000000, 336.500000]
+[15:06:37] [User Authenticator #12/INFO]: UUID of player czczlcz is 23ec5ac3-7730-4230-bda3-6ff47a357607
+[15:06:37] [Server thread/INFO]: czczlcz[/127.0.0.1:14683] logged in with entity id 22253 at (671.3848281886645, 91.0, 57.232906157144704)
+[15:06:37] [Server thread/INFO]: czczlcz joined the game
+[15:07:23] [Server thread/INFO]: lemoeJuice was shot by Skeleton
+[15:07:33] [Server thread/INFO]: WatcherZJY lost connection: Timed out
+[15:07:33] [Server thread/INFO]: WatcherZJY left the game
+[15:07:57] [User Authenticator #13/INFO]: UUID of player WatcherZJY is a9c90569-4b3a-45c0-a955-47248cc3f13c
+[15:08:00] [Server thread/INFO]: WatcherZJY[/127.0.0.1:14693] logged in with entity id 22926 at (643.1234345291448, 69.9375, 11.080242883726221)
+[15:08:00] [Server thread/INFO]: WatcherZJY joined the game
+[15:08:13] [Server thread/INFO]: [lemoeJuice: Teleported lemoeJuice to WatcherZJY]
+[15:08:13] [Server thread/WARN]: lemoeJuice moved too quickly! 662.3361633783803,-0.0625,66.36887850357886
+[15:08:30] [Server thread/INFO]: WatcherZJY lost connection: Timed out
+[15:08:30] [Server thread/INFO]: WatcherZJY left the game
+[15:08:47] [Server thread/INFO]: lemoeJuice has made the advancement [Sweet Dreams]
+[15:09:02] [User Authenticator #14/INFO]: UUID of player WatcherZJY is a9c90569-4b3a-45c0-a955-47248cc3f13c
+[15:09:02] [Server thread/INFO]: WatcherZJY[/127.0.0.1:14702] logged in with entity id 23305 at (646.7987427885205, 71.0, 11.887069604521862)
+[15:09:02] [Server thread/INFO]: WatcherZJY joined the game
+[15:10:25] [Server thread/INFO]: Lanzaw has completed the challenge [Hot Tourist Destinations]
+[15:14:25] [Server thread/INFO]: WatcherZJY has made the advancement [Enchanter]
+[15:14:58] [Server thread/INFO]: [WatcherZJY: Teleported WatcherZJY to Lanzaw]
+[15:16:00] [Server thread/INFO]: [WatcherZJY: Teleported WatcherZJY to Lanzaw]
+[15:16:53] [Server thread/INFO]: czczlcz lost connection: Timed out
+[15:16:53] [Server thread/INFO]: czczlcz left the game
+[15:17:54] [Server thread/INFO]: [WatcherZJY: Teleported WatcherZJY to Lanzaw]
+[15:17:56] [User Authenticator #15/INFO]: UUID of player czczlcz is 23ec5ac3-7730-4230-bda3-6ff47a357607
+[15:17:57] [Server thread/INFO]: czczlcz[/127.0.0.1:14763] logged in with entity id 26236 at (642.7127434449676, 82.0, 62.645141422687246)
+[15:17:57] [Server thread/INFO]: czczlcz joined the game
+[15:18:18] [Server thread/INFO]: WatcherZJY lost connection: Timed out
+[15:18:18] [Server thread/INFO]: WatcherZJY left the game
+[15:18:59] [Server thread/INFO]: [Lanzaw: Teleported Lanzaw to -303.848327, 50.000000, 500.310082]
+[15:19:14] [User Authenticator #16/INFO]: UUID of player WatcherZJY is a9c90569-4b3a-45c0-a955-47248cc3f13c
+[15:19:14] [Server thread/INFO]: WatcherZJY[/127.0.0.1:14777] logged in with entity id 26649 at (-368.30000001192093, 55.166109260938214, 412.8444367260411)
+[15:19:14] [Server thread/INFO]: WatcherZJY joined the game
+[15:19:55] [Server thread/INFO]: [WatcherZJY: Teleported WatcherZJY to Lanzaw]
+[15:19:57] [Server thread/INFO]: czczlcz lost connection: Timed out
+[15:19:57] [Server thread/INFO]: czczlcz left the game
+[15:20:48] [Server thread/INFO]: [WatcherZJY: Teleported WatcherZJY to Lanzaw]
+[15:21:11] [User Authenticator #17/INFO]: UUID of player czczlcz is 23ec5ac3-7730-4230-bda3-6ff47a357607
+[15:21:11] [Server thread/INFO]: czczlcz[/127.0.0.1:14790] logged in with entity id 27499 at (640.3000000119209, 77.0, 23.364807144340823)
+[15:21:11] [Server thread/INFO]: czczlcz joined the game
+[15:21:27] [Server thread/INFO]: [Lanzaw: Teleported Lanzaw to -242.883556, 44.000000, 526.700000]
+[15:26:28] [Server thread/INFO]: Lanzaw has made the advancement [Ice Bucket Challenge]
+[15:28:59] [Server thread/INFO]: WatcherZJY has made the advancement [Ice Bucket Challenge]
+[15:32:07] [Server thread/INFO]: Lanzaw was slain by Piglin Brute
+[15:32:42] [Server thread/INFO]: czczlcz lost connection: Timed out
+[15:32:42] [Server thread/INFO]: czczlcz left the game
+[15:33:56] [User Authenticator #18/INFO]: UUID of player czczlcz is 23ec5ac3-7730-4230-bda3-6ff47a357607
+[15:33:57] [Server thread/INFO]: czczlcz[/127.0.0.1:14853] logged in with entity id 31580 at (681.458497573958, 63.0, 104.31184938701386)
+[15:33:57] [Server thread/INFO]: czczlcz joined the game
+[15:34:05] [Server thread/INFO]: [Lanzaw: Teleported Lanzaw to czczlcz]
+[15:34:50] [Server thread/WARN]: Mismatch in destroy block pos: hx{x=674, y=62, z=91} hx{x=674, y=61, z=91}
+[15:35:03] [Server thread/INFO]: Lanzaw has made the advancement [Ol' Betsy]
+[15:35:03] [Server thread/INFO]: Lanzaw has made the advancement [Take Aim]
+[15:35:17] [Server thread/INFO]: WatcherZJY was slain by Piglin Brute
+[15:35:57] [Server thread/INFO]: czczlcz lost connection: Timed out
+[15:35:57] [Server thread/INFO]: czczlcz left the game
+[15:36:19] [Server thread/INFO]: [Lanzaw: Teleported Lanzaw to 1285.500000, 65.000000, 336.500000]
+[15:36:19] [Server thread/WARN]: Lanzaw moved too quickly! 604.9116884003561,-13.0,299.52855135202657
+[15:36:19] [Server thread/WARN]: Lanzaw moved too quickly! 604.9116884003561,-13.0,299.52855135202657
+[15:36:45] [Server thread/INFO]: WatcherZJY lost connection: Timed out
+[15:36:46] [Server thread/INFO]: WatcherZJY left the game
+[15:37:14] [User Authenticator #19/INFO]: UUID of player WatcherZJY is a9c90569-4b3a-45c0-a955-47248cc3f13c
+[15:37:14] [Server thread/INFO]: WatcherZJY[/127.0.0.1:14878] logged in with entity id 32972 at (635.8353777587411, 70.0, 9.643648500772578)
+[15:37:14] [Server thread/INFO]: WatcherZJY joined the game
+[15:38:47] [User Authenticator #20/INFO]: UUID of player czczlcz is 23ec5ac3-7730-4230-bda3-6ff47a357607
+[15:38:47] [Server thread/INFO]: czczlcz[/127.0.0.1:14888] logged in with entity id 33433 at (653.6234870695937, 79.0, 43.153870495697305)
+[15:38:47] [Server thread/INFO]: czczlcz joined the game
+[15:39:43] [Server thread/INFO]: [WatcherZJY: Teleported WatcherZJY to Lanzaw]
+[15:40:44] [Server thread/INFO]: WatcherZJY lost connection: Timed out
+[15:40:44] [Server thread/INFO]: WatcherZJY left the game
+[15:41:05] [User Authenticator #21/INFO]: UUID of player WatcherZJY is a9c90569-4b3a-45c0-a955-47248cc3f13c
+[15:41:05] [Server thread/INFO]: WatcherZJY[/127.0.0.1:14899] logged in with entity id 34231 at (91.14364643162463, 77.0, -311.69999998807907)
+[15:41:05] [Server thread/INFO]: WatcherZJY joined the game
+[15:41:37] [Server thread/INFO]: [WatcherZJY: Teleported WatcherZJY to czczlcz]
+[15:42:28] [Server thread/INFO]: [WatcherZJY: Teleported WatcherZJY to czczlcz]
+[15:43:20] [Server thread/INFO]: WatcherZJY lost connection: Disconnected
+[15:43:20] [Server thread/INFO]: WatcherZJY left the game
+[15:47:04] [Server thread/INFO]: lemoeJuice was slain by Spider
+[15:47:20] [Server thread/INFO]: lemoeJuice lost connection: Disconnected
+[15:47:20] [Server thread/INFO]: lemoeJuice left the game
+[15:48:47] [Server thread/INFO]: [Lanzaw: Teleported Lanzaw to 293.212270, 34.000000, -670.530581]
+[15:49:10] [User Authenticator #22/INFO]: UUID of player Sq24 is 1cf435a9-9395-427a-b11e-900a4a71d3ac
+[15:49:10] [Server thread/INFO]: Sq24[/127.0.0.1:14951] logged in with entity id 37172 at (-234.8773896255976, 62.110764288902274, 642.980062028076)
+[15:49:10] [Server thread/INFO]: Sq24 joined the game
+[15:53:01] [Server thread/INFO]: czczlcz was killed
+[15:53:01] [Server thread/INFO]: [czczlcz: Killed czczlcz]
+[15:53:02] [Server thread/WARN]: czczlcz moved too quickly! -198.50688269342288,7.0,-156.25021017144425
+[15:55:40] [Server thread/INFO]: [Lanzaw: Teleported Lanzaw to 410.978996, 44.875000, -783.700000]
+[15:55:50] [Server thread/INFO]: Lanzaw has made the advancement [A Terrible Fortress]
+[15:57:48] [Server thread/INFO]: <Sq24> 谁在地狱
+[15:58:38] [Server thread/INFO]: Lanzaw has made the advancement [Into Fire]
+[16:03:41] [Server thread/INFO]: Sq24 has made the advancement [Acquire Hardware]
+[16:04:16] [Server thread/INFO]: Sq24 has made the advancement [Not Today, Thank You]
+[16:04:21] [Server thread/INFO]: Sq24 has made the advancement [Monster Hunter]
+[16:05:19] [Server thread/INFO]: Sq24 has made the advancement [Sweet Dreams]
+[16:06:02] [Server thread/INFO]: Sq24 has made the advancement [Suit Up]
+[16:06:19] [Server thread/INFO]: Sq24 has made the advancement [We Need to Go Deeper]
+[16:06:19] [Server thread/INFO]: [Sq24: Teleported Sq24 to Lanzaw]
+[16:06:19] [Server thread/INFO]: Sq24 has made the advancement [A Terrible Fortress]
+[16:07:07] [Server thread/INFO]: <Sq24> 拿东西
+[16:07:24] [Server thread/INFO]: [Sq24: Teleported Sq24 to Lanzaw]
+[16:07:36] [Server thread/INFO]: Sq24 was killed
+[16:07:36] [Server thread/INFO]: [Sq24: Killed Sq24]
+[16:08:55] [Server thread/INFO]: <Sq24> ?萝卜马铃薯呢
+[16:08:56] [User Authenticator #23/INFO]: UUID of player lemoeJuice is 774c6801-1458-421c-a66f-f6ab8ed78235
+[16:08:56] [Server thread/INFO]: lemoeJuice[/127.0.0.1:1089] logged in with entity id 54342 at (636.5, 71.5625, 4.5)
+[16:08:56] [Server thread/INFO]: lemoeJuice joined the game
+[16:09:12] [Server thread/INFO]: Sq24 lost connection: Timed out
+[16:09:12] [Server thread/INFO]: Sq24 left the game
+[16:09:37] [User Authenticator #24/INFO]: UUID of player Sq24 is 1cf435a9-9395-427a-b11e-900a4a71d3ac
+[16:09:37] [Server thread/INFO]: Sq24[/127.0.0.1:1095] logged in with entity id 55191 at (641.3397919382473, 70.0, 9.852026906463946)
+[16:09:37] [Server thread/INFO]: Sq24 joined the game
+[16:10:36] [Server thread/INFO]: czczlcz lost connection: Timed out
+[16:10:36] [Server thread/INFO]: czczlcz left the game
+[16:10:59] [User Authenticator #25/INFO]: UUID of player czczlcz is 23ec5ac3-7730-4230-bda3-6ff47a357607
+[16:10:59] [Server thread/INFO]: czczlcz[/127.0.0.1:1107] logged in with entity id 56498 at (1915.9498188043815, 62.110764288902274, 1878.3665558315904)
+[16:10:59] [Server thread/INFO]: czczlcz joined the game
+[16:11:19] [Server thread/INFO]: <Sq24> ?马铃薯在哪
+[16:11:38] [Server thread/INFO]: <czczlcz> behind the mountaihn\
+[16:11:49] [Server thread/INFO]: Sq24 has made the advancement [Surge Protector]
+[16:12:30] [Server thread/INFO]: Lanzaw was burned to a crisp while fighting Blaze
+[16:12:42] [Server thread/INFO]: Lanzaw has made the advancement [Surge Protector]
+[16:13:06] [Server thread/WARN]: Birch Boat (vehicle of czczlcz) moved wrongly! 0.33380562892102716
+[16:13:06] [Server thread/WARN]: Birch Boat (vehicle of czczlcz) moved wrongly! 0.46252102384505633
+[16:13:06] [Server thread/WARN]: Birch Boat (vehicle of czczlcz) moved wrongly! 0.3018796429032591
+[16:13:06] [Server thread/WARN]: Birch Boat (vehicle of czczlcz) moved wrongly! 0.39788984553410955
+[16:13:52] [Server thread/INFO]: Sq24 lost connection: Timed out
+[16:13:52] [Server thread/INFO]: Sq24 left the game
+[16:14:16] [User Authenticator #26/INFO]: UUID of player Sq24 is 1cf435a9-9395-427a-b11e-900a4a71d3ac
+[16:14:16] [Server thread/INFO]: Sq24[/127.0.0.1:1126] logged in with entity id 59834 at (673.847495789976, 62.9375, 99.62705769234724)
+[16:14:16] [Server thread/INFO]: Sq24 joined the game
+[16:14:56] [Server thread/INFO]: Sq24 has made the advancement [A Seedy Place]
+[16:15:42] [Server thread/INFO]: <Sq24> 现在在打雷
+[16:17:02] [Server thread/INFO]: Sq24 lost connection: Timed out
+[16:17:02] [Server thread/INFO]: Sq24 left the game
+[16:17:32] [Server thread/INFO]: Lanzaw has made the advancement [The Parrots and the Bats]
+[16:17:34] [User Authenticator #27/INFO]: UUID of player Sq24 is 1cf435a9-9395-427a-b11e-900a4a71d3ac
+[16:17:35] [Server thread/INFO]: Sq24[/127.0.0.1:1140] logged in with entity id 62345 at (638.2694200022908, 79.0, -19.049668584901966)
+[16:17:36] [Server thread/INFO]: Sq24 joined the game
+[16:23:45] [Server thread/INFO]: czczlcz lost connection: Timed out
+[16:23:45] [Server thread/INFO]: czczlcz left the game
+[16:23:57] [User Authenticator #28/INFO]: UUID of player czczlcz is 23ec5ac3-7730-4230-bda3-6ff47a357607
+[16:23:57] [Server thread/INFO]: czczlcz[/127.0.0.1:1178] logged in with entity id 67731 at (3923.4685424827903, 69.02442408821369, 1649.052686868439)
+[16:23:57] [Server thread/INFO]: czczlcz joined the game
+[16:25:57] [Server thread/INFO]: czczlcz lost connection: Timed out
+[16:25:57] [Server thread/INFO]: czczlcz left the game
+[16:26:30] [User Authenticator #29/INFO]: UUID of player czczlcz is 23ec5ac3-7730-4230-bda3-6ff47a357607
+[16:26:30] [Server thread/INFO]: czczlcz[/127.0.0.1:1192] logged in with entity id 70490 at (4295.028383889076, 78.0, 1761.7204803237337)
+[16:26:30] [Server thread/INFO]: czczlcz joined the game
+[16:27:03] [Server thread/INFO]: czczlcz lost connection: Disconnected
+[16:27:03] [Server thread/INFO]: czczlcz left the game
+[16:29:30] [Server thread/INFO]: Sq24 has made the advancement [Enchanter]
+[16:30:45] [Server thread/INFO]: lemoeJuice lost connection: Disconnected
+[16:30:45] [Server thread/INFO]: lemoeJuice left the game
+[16:34:50] [Server thread/INFO]: Lanzaw has made the advancement [Eye Spy]
+[16:34:57] [User Authenticator #30/INFO]: UUID of player Flex20240120 is 03fbe858-808f-4934-94a1-51f57916b069
+[16:34:57] [Server thread/INFO]: Flex20240120[/127.0.0.1:1233] logged in with entity id 74765 at (-6.5, 76.0, -50.5)
+[16:34:57] [Server thread/INFO]: Flex20240120 joined the game
+[16:34:59] [Server thread/WARN]: Mismatch in destroy block pos: hx{x=0, y=0, z=0} hx{x=-8, y=76, z=-49}
+[16:34:59] [Server thread/WARN]: Mismatch in destroy block pos: hx{x=0, y=0, z=0} hx{x=-8, y=77, z=-49}
+[16:34:59] [Server thread/WARN]: Mismatch in destroy block pos: hx{x=0, y=0, z=0} hx{x=-7, y=77, z=-49}
+[16:43:01] [Server thread/INFO]: Flex20240120 has made the advancement [Stone Age]
+[16:46:42] [Server thread/INFO]: Flex20240120 has made the advancement [Getting an Upgrade]
+[16:51:55] [Server thread/INFO]: [Lanzaw: Set spawn point to 1274, 4, 662 [0.0] in minecraft:overworld for Lanzaw]
+[16:51:59] [Server thread/INFO]: Lanzaw has made the advancement [The End?]
+[16:52:00] [Server thread/INFO]: Scanning for legacy world dragon fight...
+[16:52:00] [Server thread/INFO]: Found that the dragon has not yet been killed in this world.
+[16:54:56] [Server thread/INFO]: Flex20240120 lost connection: Disconnected
+[16:54:56] [Server thread/INFO]: Flex20240120 left the game
+[16:55:13] [Server thread/INFO]: Lanzaw was slain by Enderman
+[17:01:19] [User Authenticator #31/INFO]: UUID of player czczlcz is 23ec5ac3-7730-4230-bda3-6ff47a357607
+[17:01:19] [Server thread/INFO]: czczlcz[/127.0.0.1:1365] logged in with entity id 87372 at (4251.27709062666, 21.694394830992326, 1796.059030578919)
+[17:01:19] [Server thread/INFO]: czczlcz joined the game
+[17:01:25] [Server thread/INFO]: czczlcz drowned
+[17:03:27] [Server thread/INFO]: [czczlcz: Teleported czczlcz to Sq24]
+[17:03:32] [Server thread/INFO]: Lanzaw was doomed to fall
+[17:03:50] [Server thread/INFO]: Lanzaw lost connection: Timed out
+[17:03:50] [Server thread/INFO]: Lanzaw left the game
+[17:03:50] [Server thread/WARN]: handleDisconnection() called twice
+[17:04:02] [User Authenticator #32/INFO]: UUID of player Lanzaw is 92b2c812-239c-4aaf-9a94-fa5d8fc8171c
+[17:04:02] [Server thread/INFO]: Lanzaw[/127.0.0.1:1382] logged in with entity id 88579 at (100.5, 49.0, 0.5)
+[17:04:02] [Server thread/INFO]: Lanzaw joined the game
+[17:07:42] [Server thread/INFO]: Lanzaw was doomed to fall by Ender Dragon
+[17:07:48] [Server thread/INFO]: <czczlcz> ?
+[17:08:01] [Server thread/INFO]: <czczlcz> zaidalong?
+[17:08:02] [Server thread/INFO]: Lanzaw lost connection: Timed out
+[17:08:02] [Server thread/INFO]: Lanzaw left the game
+[17:08:13] [User Authenticator #33/INFO]: UUID of player Lanzaw is 92b2c812-239c-4aaf-9a94-fa5d8fc8171c
+[17:08:13] [Server thread/INFO]: Lanzaw[/127.0.0.1:1428] logged in with entity id 90132 at (100.5, 49.0, 0.5)
+[17:08:13] [Server thread/INFO]: Lanzaw joined the game
+[17:08:18] [Server thread/INFO]: <Lanzaw> sd
+[17:08:43] [Server thread/INFO]: Lanzaw was doomed to fall
+[17:11:02] [Server thread/INFO]: Lanzaw has reached the goal [The Next Generation]
+[17:12:31] [Server thread/INFO]: Lanzaw has made the advancement [Remote Getaway]
+[17:15:03] [Server thread/INFO]: Lanzaw fell out of the world
+[17:15:16] [Server thread/INFO]: [Lanzaw: Teleported Lanzaw to czczlcz]
+[17:15:28] [Server thread/INFO]: Lanzaw lost connection: Timed out
+[17:15:28] [Server thread/INFO]: Lanzaw left the game
+[17:15:36] [Server thread/INFO]: czczlcz lost connection: Timed out
+[17:15:36] [Server thread/INFO]: czczlcz left the game
+[17:15:48] [User Authenticator #34/INFO]: UUID of player czczlcz is 23ec5ac3-7730-4230-bda3-6ff47a357607
+[17:15:48] [Server thread/INFO]: czczlcz[/127.0.0.1:1477] logged in with entity id 93308 at (670.6634831167797, 91.0, 64.3605925737001)
+[17:15:48] [Server thread/INFO]: czczlcz joined the game
+[17:15:52] [User Authenticator #35/INFO]: UUID of player Lanzaw is 92b2c812-239c-4aaf-9a94-fa5d8fc8171c
+[17:15:52] [Server thread/INFO]: Lanzaw[/127.0.0.1:1481] logged in with entity id 93383 at (669.6924146066077, 91.0, 68.95973378012597)
+[17:15:52] [Server thread/INFO]: Lanzaw joined the game
+[17:16:00] [Server thread/INFO]: <Lanzaw> lan
+[17:18:15] [Server thread/INFO]: <Lanzaw> need bookshelf?
+[17:22:05] [Server thread/INFO]: [Lanzaw: Teleported Lanzaw to 1258.500000, 8.000000, 725.500000]
+[17:22:05] [Server thread/WARN]: Lanzaw moved too quickly! 616.5580034265118,-62.875,713.0074562263977
+[17:22:31] [Server thread/INFO]: [Lanzaw: Teleported Lanzaw to czczlcz]
+[17:22:31] [Server thread/WARN]: Lanzaw moved too quickly! -605.2959853789503,71.0,-686.9124964436429
+[17:22:31] [Server thread/INFO]: Sq24 fell from a high place
+[17:22:37] [Server thread/INFO]: <Lanzaw> bookshelf
+[17:22:45] [Server thread/INFO]: [Sq24: Teleported Sq24 to czczlcz]
+[17:22:58] [Server thread/INFO]: czczlcz lost connection: Disconnected
+[17:22:58] [Server thread/INFO]: czczlcz left the game
+[17:23:47] [User Authenticator #36/INFO]: UUID of player czczlcz is 23ec5ac3-7730-4230-bda3-6ff47a357607
+[17:23:47] [Server thread/INFO]: czczlcz[/127.0.0.1:1527] logged in with entity id 95356 at (667.4519406048105, 78.0, 21.61391206978981)
+[17:23:47] [Server thread/INFO]: czczlcz joined the game
+[17:24:29] [Server thread/INFO]: Lanzaw has made the advancement [Enchanter]
+[17:25:03] [Server thread/INFO]: <czczlcz> i have shiyunIII
+[17:25:17] [Server thread/INFO]: <czczlcz> but i ain't got enough level
+[17:25:24] [Server thread/INFO]: <Lanzaw> i have
+[17:25:29] [Server thread/INFO]: <Lanzaw> lv 48 now
+[17:25:37] [Server thread/INFO]: <Lanzaw> just killed the dragon
+[17:25:41] [Server thread/INFO]: <czczlcz> xiatou
+[17:25:44] [Server thread/INFO]: <Lanzaw> ...
+[17:26:00] [Server thread/INFO]: <Lanzaw> have any diamond?
+[17:26:07] [Server thread/INFO]: <Lanzaw> need a new sword
+[17:26:29] [Server thread/INFO]: <Lanzaw> hey
+[17:26:32] [Server thread/INFO]: <czczlcz> no
+[17:26:48] [Server thread/INFO]: <Lanzaw> shit
+[17:28:27] [Server thread/INFO]: [Lanzaw: Teleported Lanzaw to 1274.500000, 5.000000, 661.500000]
+[17:28:27] [Server thread/WARN]: Lanzaw moved too quickly! 641.649178260777,-69.0,639.8000000119209
+[17:28:27] [Server thread/WARN]: Lanzaw moved too quickly! 641.649178260777,-69.0,639.8000000119209
+[17:28:27] [Server thread/WARN]: Lanzaw moved too quickly! 641.649178260777,-69.0,639.8000000119209
+[17:32:22] [Server thread/INFO]: Sq24 has made the advancement [Hot Stuff]
+[17:33:27] [Server thread/INFO]: <Sq24> 地狱门在哪
+[17:35:14] [Server thread/INFO]: <Sq24> 地狱门在哪
+[17:35:20] [Server thread/INFO]: <czczlcz> kanqunli
+[17:35:24] [Server thread/INFO]: <Lanzaw> 看群公告
+[17:35:45] [Server thread/INFO]: <Sq24> 这么远？
+[17:35:54] [Server thread/INFO]: <czczlcz> qingnishiyong tp
+[17:36:41] [Server thread/INFO]: Sq24 has made the advancement [Tactical Fishing]
+[17:41:25] [User Authenticator #37/INFO]: UUID of player WatcherZJY is a9c90569-4b3a-45c0-a955-47248cc3f13c
+[17:41:25] [Server thread/INFO]: WatcherZJY[/127.0.0.1:1625] logged in with entity id 100544 at (605.5440528141919, 72.0, 23.529835970901058)
+[17:41:25] [Server thread/INFO]: WatcherZJY joined the game
+[17:42:04] [Server thread/INFO]: czczlcz lost connection: Timed out
+[17:42:04] [Server thread/INFO]: czczlcz left the game
+[17:42:31] [User Authenticator #38/INFO]: UUID of player czczlcz is 23ec5ac3-7730-4230-bda3-6ff47a357607
+[17:42:31] [Server thread/INFO]: czczlcz[/127.0.0.1:1635] logged in with entity id 101002 at (671.5948668978668, 62.9375, 98.23761026813601)
+[17:42:31] [Server thread/INFO]: czczlcz joined the game
+[17:46:34] [Server thread/INFO]: <Sq24> 刷铁机造完了
+[17:48:17] [Server thread/WARN]: Lanzaw moved too quickly! 0.704186410838247,-16.0,-7.263136227800942
+[17:48:17] [Server thread/WARN]: Lanzaw moved too quickly! 0.704186410838247,-16.0,-7.263136227800942
+[17:49:55] [Server thread/INFO]: WatcherZJY has made the advancement [The End?]
+[17:49:55] [Server thread/INFO]: [WatcherZJY: Teleported WatcherZJY to Lanzaw]
+[17:50:04] [Server thread/INFO]: WatcherZJY fell out of the world
+[17:50:46] [Server thread/INFO]: Lanzaw fell out of the world
+[17:50:55] [Server thread/INFO]: Sq24 has made the advancement [Diamonds!]
+[17:50:56] [Server thread/INFO]: [Lanzaw: Teleported Lanzaw to czczlcz]
+[17:51:11] [Server thread/INFO]: Lanzaw lost connection: Timed out
+[17:51:11] [Server thread/INFO]: Lanzaw left the game
+[17:51:17] [Server thread/INFO]: czczlcz lost connection: Timed out
+[17:51:17] [Server thread/INFO]: czczlcz left the game
+[17:51:21] [User Authenticator #39/INFO]: UUID of player Lanzaw is 92b2c812-239c-4aaf-9a94-fa5d8fc8171c
+[17:51:21] [Server thread/INFO]: Lanzaw[/127.0.0.1:1701] logged in with entity id 104961 at (670.5844405519827, 63.0, 104.47865152622636)
+[17:51:21] [Server thread/INFO]: Lanzaw joined the game
+[17:51:25] [User Authenticator #40/INFO]: UUID of player czczlcz is 23ec5ac3-7730-4230-bda3-6ff47a357607
+[17:51:26] [Server thread/INFO]: czczlcz[/127.0.0.1:1706] logged in with entity id 105106 at (634.1176627743497, 79.0, 49.17342313279405)
+[17:51:26] [Server thread/INFO]: czczlcz joined the game
+[17:51:51] [Server thread/INFO]: [WatcherZJY: Teleported WatcherZJY to Lanzaw]
+[17:51:56] [Server thread/INFO]: czczlcz lost connection: Timed out
+[17:51:56] [Server thread/INFO]: czczlcz left the game
+[17:51:56] [Server thread/WARN]: handleDisconnection() called twice
+[17:51:56] [Server thread/INFO]: WatcherZJY lost connection: Timed out
+[17:51:56] [Server thread/INFO]: WatcherZJY left the game
+[17:52:05] [Server thread/INFO]: <Sq24> 先搞交易所
+[17:52:08] [User Authenticator #41/INFO]: UUID of player WatcherZJY is a9c90569-4b3a-45c0-a955-47248cc3f13c
+[17:52:08] [Server thread/INFO]: WatcherZJY[/127.0.0.1:1710] logged in with entity id 105372 at (667.1942964970614, 78.0, 32.91926856347744)
+[17:52:08] [Server thread/INFO]: WatcherZJY joined the game
+[17:52:14] [Server thread/INFO]: <Sq24> 产金胡萝卜
+[17:52:51] [User Authenticator #42/INFO]: UUID of player czczlcz is 23ec5ac3-7730-4230-bda3-6ff47a357607
+[17:52:51] [Server thread/INFO]: czczlcz[/127.0.0.1:1715] logged in with entity id 105506 at (634.1176627743497, 79.0, 49.17342313279405)
+[17:52:51] [Server thread/INFO]: czczlcz joined the game
+[17:53:53] [Server thread/INFO]: <Sq24> zjy身上多少石头
+[17:54:02] [Server thread/INFO]: <WatcherZJY> shenmeshitou
+[17:54:14] [Server thread/INFO]: <Sq24> 什么都行
+[17:54:16] [Server thread/INFO]: <WatcherZJY> wozhiyouzuanshi
+[17:54:21] [Server thread/INFO]: <Sq24> 6
+[17:54:23] [Server thread/INFO]: <WatcherZJY> shitoudouzaixiangzili
+[17:54:25] [Server thread/INFO]: czczlcz has made the advancement [Fishy Business]
+[17:55:09] [Server thread/INFO]: <Sq24> 帮我搞个效率
+[17:56:09] [Server thread/INFO]: <Sq24> 斧头
+[17:56:32] [Server thread/INFO]: <Sq24> 噢还有铲子
+[17:56:50] [Server thread/INFO]: <czczlcz> im going to dine
+[17:57:45] [Server thread/INFO]: czczlcz lost connection: Disconnected
+[17:57:45] [Server thread/INFO]: czczlcz left the game
+[17:59:05] [Server thread/INFO]: <Sq24> 修补也是交易所
+[17:59:12] [Server thread/INFO]: <Sq24> 所以在搞
+[17:59:43] [Server thread/INFO]: Lanzaw was killed
+[17:59:43] [Server thread/INFO]: [Lanzaw: Killed Lanzaw]
+[18:00:34] [Server thread/INFO]: <Sq24> 有没有史莱姆块和石英
+[18:00:44] [Server thread/INFO]: <WatcherZJY> shiyingwokeyiquwa
+[18:00:48] [Server thread/INFO]: <WatcherZJY> shilaimumeiyou
+[18:02:57] [Server thread/INFO]: Lanzaw lost connection: Disconnected
+[18:02:57] [Server thread/INFO]: Lanzaw left the game
+[18:03:11] [Server thread/INFO]: [WatcherZJY: Teleported WatcherZJY to 1285.500000, 65.000000, 336.500000]
+[18:03:12] [Server thread/WARN]: WatcherZJY moved too quickly! 647.8032633600008,-12.0,308.90988149492614
+[18:05:33] [Server thread/WARN]: Mismatch in destroy block pos: hx{x=643, y=72, z=-17} hx{x=643, y=72, z=-16}
+[18:08:50] [Server thread/INFO]: <Sq24> 有没有效率稿子
+[18:08:58] [Server thread/INFO]: <WatcherZJY> wu
+[18:11:32] [Server thread/INFO]: <Sq24> 你在挖矿吗
+[18:11:40] [Server thread/INFO]: <WatcherZJY> sd
+[18:11:53] [Server thread/INFO]: <Sq24> 石头给一点
+[18:12:00] [Server thread/INFO]: <WatcherZJY> mashanghuilai
+[18:12:14] [Server thread/INFO]: <Sq24> 那我不过去了
+[18:12:17] [Server thread/INFO]: <WatcherZJY> danwozhiyou xiajieyan
+[18:12:29] [Server thread/INFO]: <Sq24> 没事
+[18:13:21] [Server thread/INFO]: [WatcherZJY: Teleported WatcherZJY to Sq24]
+[18:13:31] [User Authenticator #43/INFO]: UUID of player Lanzaw is 92b2c812-239c-4aaf-9a94-fa5d8fc8171c
+[18:13:32] [Server thread/INFO]: Lanzaw[/127.0.0.1:1800] logged in with entity id 111482 at (100.5, 49.0, 0.5)
+[18:13:32] [Server thread/INFO]: Lanzaw joined the game
+[18:13:40] [Server thread/INFO]: [WatcherZJY: Teleported WatcherZJY to Sq24]
+[18:13:48] [Server thread/INFO]: [Lanzaw: Teleported Lanzaw to WatcherZJY]
+[18:14:10] [Server thread/INFO]: WatcherZJY lost connection: Timed out
+[18:14:10] [Server thread/INFO]: WatcherZJY left the game
+[18:14:29] [User Authenticator #44/INFO]: UUID of player WatcherZJY is a9c90569-4b3a-45c0-a955-47248cc3f13c
+[18:14:29] [Server thread/INFO]: WatcherZJY[/127.0.0.1:1805] logged in with entity id 111672 at (637.5159393922443, 70.0, 4.070542797521016)
+[18:14:29] [Server thread/INFO]: WatcherZJY joined the game
+[18:14:44] [Server thread/INFO]: [WatcherZJY: Teleported WatcherZJY to Sq24]
+[18:16:38] [Server thread/INFO]: <Sq24> 你要用床炸吗
+[18:18:31] [Server thread/INFO]: <Sq24> 打折不搞了可不可以
+[18:18:57] [Server thread/WARN]: Mismatch in destroy block pos: hx{x=571, y=86, z=77} hx{x=571, y=84, z=78}
+[18:23:09] [Server thread/INFO]: <Sq24> 能否来睡一觉
+[18:23:32] [Server thread/INFO]: [Lanzaw: Teleported Lanzaw to 727.359978, -29.000000, 84.877022]
+[18:23:38] [Server thread/INFO]: [Lanzaw: Teleported Lanzaw to Sq24]
+[18:23:38] [Server thread/WARN]: Lanzaw moved too quickly! -89.85997773484496,106.6875,-101.37702169538764
+[18:23:38] [Server thread/WARN]: Lanzaw moved too quickly! -89.85997773484496,106.6875,-101.37702169538764
+[18:23:41] [Server thread/INFO]: Lanzaw has made the advancement [Sweet Dreams]
+[18:23:59] [Server thread/INFO]: [WatcherZJY: Teleported WatcherZJY to Lanzaw]
+[18:24:03] [Server thread/INFO]: WatcherZJY has made the advancement [Sweet Dreams]
+[18:24:23] [Server thread/INFO]: [Lanzaw: Teleported Lanzaw to 727.500000, -29.000000, 85.500000]
+[18:24:23] [Server thread/WARN]: Lanzaw moved too quickly! 91.81800270289978,-106.5625,102.81805855958633
+[18:24:23] [Server thread/WARN]: Lanzaw moved too quickly! 91.81800270289978,-106.5625,102.81805855958633
+[18:24:54] [Server thread/INFO]: <Sq24> -52左右好像
+[18:25:38] [User Authenticator #45/INFO]: UUID of player lemoeJuice is 774c6801-1458-421c-a66f-f6ab8ed78235
+[18:25:39] [Server thread/INFO]: lemoeJuice[/127.0.0.1:1841] logged in with entity id 114380 at (647.8538110404803, 75.0, 29.653542378781065)
+[18:25:39] [Server thread/INFO]: lemoeJuice joined the game
+[18:26:37] [Server thread/INFO]: <lemoeJuice> 有人吗
+[18:26:44] [Server thread/INFO]: <Lanzaw> tab
+[18:26:45] [Server thread/INFO]: <WatcherZJY> meiyou
+[18:27:08] [Server thread/INFO]: <Sq24> ?我繁殖机做错了吗怎么不生村民
+[18:27:09] [Server thread/INFO]: <lemoeJuice> 我床呢
+[18:27:46] [Server thread/INFO]: WatcherZJY lost connection: Timed out
+[18:27:46] [Server thread/INFO]: WatcherZJY left the game
+[18:28:13] [User Authenticator #46/INFO]: UUID of player WatcherZJY is a9c90569-4b3a-45c0-a955-47248cc3f13c
+[18:28:14] [Server thread/INFO]: WatcherZJY[/127.0.0.1:1849] logged in with entity id 115290 at (641.3838512876013, 79.0, 42.85659839347982)
+[18:28:14] [Server thread/INFO]: WatcherZJY joined the game
+[18:29:49] [Server thread/INFO]: Saving the game (this may take a moment!)
+[18:29:49] [Server thread/INFO]: Saved the game
+[18:30:31] [Server thread/INFO]: [Lanzaw: Teleported Lanzaw to WatcherZJY]
+[18:30:31] [Server thread/WARN]: Lanzaw moved too quickly! -87.25006559607675,111.0,-103.68998484203622
+[18:31:14] [Server thread/INFO]: WatcherZJY lost connection: Timed out
+[18:31:14] [Server thread/INFO]: WatcherZJY left the game
+[18:31:25] [User Authenticator #47/INFO]: UUID of player WatcherZJY is a9c90569-4b3a-45c0-a955-47248cc3f13c
+[18:31:25] [Server thread/INFO]: WatcherZJY[/127.0.0.1:1862] logged in with entity id 116132 at (637.1150312147207, 70.0, 9.099670095243473)
+[18:31:25] [Server thread/INFO]: WatcherZJY joined the game
+[18:32:06] [Server thread/INFO]: lemoeJuice has made the advancement [A Seedy Place]
+[18:32:25] [Server thread/INFO]: WatcherZJY lost connection: Timed out
+[18:32:25] [Server thread/INFO]: WatcherZJY left the game
+[18:32:45] [User Authenticator #48/INFO]: UUID of player WatcherZJY is a9c90569-4b3a-45c0-a955-47248cc3f13c
+[18:32:46] [Server thread/INFO]: WatcherZJY[/127.0.0.1:1871] logged in with entity id 116439 at (640.9104884384113, 70.0, 10.996649800267814)
+[18:32:46] [Server thread/INFO]: WatcherZJY joined the game
+[18:34:04] [Server thread/INFO]: WatcherZJY has made the advancement [The Parrots and the Bats]
+[18:35:34] [Server thread/INFO]: Sq24 lost connection: Timed out
+[18:35:34] [Server thread/INFO]: Sq24 left the game
+[18:36:22] [User Authenticator #49/INFO]: UUID of player Sq24 is 1cf435a9-9395-427a-b11e-900a4a71d3ac
+[18:36:22] [Server thread/INFO]: Sq24[/127.0.0.1:1886] logged in with entity id 117137 at (638.2540162271684, 77.0, -18.667945165385813)
+[18:36:22] [Server thread/INFO]: Sq24 joined the game
+[18:36:54] [Server thread/INFO]: <lemoeJuice> 我种的树呢
+[18:37:01] [Server thread/INFO]: WatcherZJY lost connection: Timed out
+[18:37:01] [Server thread/INFO]: WatcherZJY left the game
+[18:37:22] [User Authenticator #50/INFO]: UUID of player WatcherZJY is a9c90569-4b3a-45c0-a955-47248cc3f13c
+[18:37:23] [Server thread/INFO]: WatcherZJY[/127.0.0.1:1893] logged in with entity id 117367 at (649.3319705505784, 72.0, 5.875900643575755)
+[18:37:23] [Server thread/INFO]: WatcherZJY joined the game
+[18:37:59] [Server thread/INFO]: <Sq24> 太
+[18:38:09] [User Authenticator #51/INFO]: UUID of player czczlcz is 23ec5ac3-7730-4230-bda3-6ff47a357607
+[18:38:09] [Server thread/INFO]: czczlcz[/127.0.0.1:1897] logged in with entity id 117604 at (626.0476907219188, 71.0, 8.872801369012894)
+[18:38:09] [Server thread/INFO]: czczlcz joined the game
+[18:38:46] [Server thread/INFO]: <lemoeJuice> 谁把我树砍了种子给我点
+[18:38:54] [Server thread/INFO]: czczlcz lost connection: Timed out
+[18:38:54] [Server thread/INFO]: czczlcz left the game
+[18:39:41] [User Authenticator #52/INFO]: UUID of player czczlcz is 23ec5ac3-7730-4230-bda3-6ff47a357607
+[18:39:42] [Server thread/INFO]: czczlcz[/127.0.0.1:1907] logged in with entity id 118057 at (644.6851552989003, 73.0, 74.4230706005676)
+[18:39:42] [Server thread/INFO]: czczlcz joined the game
+[18:40:12] [Server thread/INFO]: czczlcz lost connection: Timed out
+[18:40:12] [Server thread/INFO]: czczlcz left the game
+[18:40:15] [Server thread/INFO]: <lemoeJuice> 水田真不如做8*8的吧
+[18:40:24] [Server thread/INFO]: <lemoeJuice> 一块一组
+[18:41:18] [User Authenticator #53/INFO]: UUID of player czczlcz is 23ec5ac3-7730-4230-bda3-6ff47a357607
+[18:41:19] [Server thread/INFO]: czczlcz[/127.0.0.1:1913] logged in with entity id 118760 at (642.4510983856923, 63.0, 96.19520180813157)
+[18:41:19] [Server thread/INFO]: czczlcz joined the game
+[18:42:19] [Server thread/INFO]: czczlcz lost connection: Timed out
+[18:42:19] [Server thread/INFO]: czczlcz left the game
+[18:42:34] [User Authenticator #54/INFO]: UUID of player czczlcz is 23ec5ac3-7730-4230-bda3-6ff47a357607
+[18:42:34] [Server thread/INFO]: czczlcz[/127.0.0.1:1920] logged in with entity id 119108 at (664.2200405259674, 79.0, 12.588992030542428)
+[18:42:34] [Server thread/INFO]: czczlcz joined the game
+[18:48:06] [Server thread/INFO]: <Sq24> 3平滑石+5铁+熔炉
+[18:50:01] [Server thread/WARN]: Mismatch in destroy block pos: hx{x=596, y=70, z=40} hx{x=611, y=64, z=-27}
+[18:50:01] [Server thread/WARN]: Mismatch in destroy block pos: hx{x=596, y=70, z=40} hx{x=611, y=64, z=-27}
+[18:53:09] [Server thread/INFO]: lemoeJuice has made the advancement [Acquire Hardware]
+[18:54:01] [Server thread/INFO]: lemoeJuice has made the advancement [Isn't It Iron Pick]
+[18:56:39] [Server thread/INFO]: WatcherZJY has made the advancement [Take Aim]
+[18:56:59] [Server thread/INFO]: Sq24 tried to swim in lava to escape Zombie
+[18:57:09] [Server thread/INFO]: WatcherZJY lost connection: Timed out
+[18:57:09] [Server thread/INFO]: WatcherZJY left the game
+[18:57:20] [User Authenticator #55/INFO]: UUID of player WatcherZJY is a9c90569-4b3a-45c0-a955-47248cc3f13c
+[18:57:20] [Server thread/INFO]: WatcherZJY[/127.0.0.1:1965] logged in with entity id 123525 at (642.9348843383742, 69.9375, 4.964652901913013)
+[18:57:20] [Server thread/INFO]: WatcherZJY joined the game
+[18:57:50] [Server thread/INFO]: czczlcz lost connection: Timed out
+[18:57:50] [Server thread/INFO]: czczlcz left the game
+[18:58:02] [User Authenticator #56/INFO]: UUID of player czczlcz is 23ec5ac3-7730-4230-bda3-6ff47a357607
+[18:58:02] [Server thread/INFO]: czczlcz[/127.0.0.1:1971] logged in with entity id 123700 at (673.5903663498083, 75.0, 81.24073497991071)
+[18:58:02] [Server thread/INFO]: czczlcz joined the game
+[18:58:27] [Server thread/INFO]: <lemoeJuice> 挂机一下
+[18:58:35] [Server thread/INFO]: WatcherZJY lost connection: Timed out
+[18:58:35] [Server thread/INFO]: WatcherZJY left the game
+[18:58:40] [Server thread/INFO]: <Sq24> 我很流畅
+[18:59:02] [User Authenticator #57/INFO]: UUID of player WatcherZJY is a9c90569-4b3a-45c0-a955-47248cc3f13c
+[18:59:03] [Server thread/INFO]: WatcherZJY[/127.0.0.1:1974] logged in with entity id 124001 at (657.7482814186942, 83.0, 51.69999998807907)
+[18:59:03] [Server thread/INFO]: WatcherZJY joined the game
+[19:00:02] [Server thread/INFO]: czczlcz lost connection: Timed out
+[19:00:02] [Server thread/INFO]: czczlcz left the game
+[19:00:07] [Server thread/INFO]: Lanzaw lost connection: Disconnected
+[19:00:07] [Server thread/INFO]: Lanzaw left the game
+[19:00:13] [Server thread/INFO]: WatcherZJY lost connection: Disconnected
+[19:00:13] [Server thread/INFO]: WatcherZJY left the game
+[19:00:21] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[19:00:21] [Server thread/INFO]: /save-all<--[HERE]
+[19:00:32] [Server thread/INFO]: Saving the game (this may take a moment!)
+[19:00:32] [Server thread/INFO]: Saved the game
+[19:00:41] [Server thread/INFO]: Stopping the server
+[19:00:41] [Server thread/INFO]: Stopping server
+[19:00:41] [Server thread/INFO]: Saving players
+[19:00:42] [Server thread/INFO]: Saving worlds
+[19:00:42] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[19:00:42] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[19:00:42] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[19:00:42] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[19:00:42] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[19:00:42] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[19:00:42] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
